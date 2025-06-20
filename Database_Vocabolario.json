@@ -252,7 +252,7 @@
         },
         {
             "Spagnolo": "El aire acondicionado",
-            "Italiano": "Il condizionatore"
+            "Italiano": "L'aria condizionata"
         },
         {
             "Spagnolo": "El congelador",
@@ -871,7 +871,7 @@
             "Italiano": "Figurati"
         },
         {
-            "Spagnolo": "daaaale",
+            "Spagnolo": "no me digas",
             "Italiano": "Ma dai"
         },
         {
@@ -893,6 +893,78 @@
         {
             "Spagnolo": "No puedo más",
             "Italiano": "Non ne posso più"
+        },
+        {
+            "Spagnolo": "Estoy a reventar",
+            "Italiano": "Mi sono sfondato"
+        },
+        {
+            "Spagnolo": "Vete de aquí",
+            "Italiano": "Vai via! Vattene"
+        },
+        {
+            "Spagnolo": "Que barbaro! (Positivo)",
+            "Italiano": "Che forte"
+        },
+        {
+            "Spagnolo": "Ni de coña",
+            "Italiano": "Col cavolo"
+        },
+        {
+            "Spagnolo": "De casualidad",
+            "Italiano": "Per caso"
+        },
+        {
+            "Spagnolo": "De pedo",
+            "Italiano": "Per fortuna"
+        },
+        {
+            "Spagnolo": "Como mucho",
+            "Italiano": "Al massimo"
+        },
+        {
+            "Spagnolo": "Por lo tanto",
+            "Italiano": "Per tanto o dunque"
+        },
+        {
+            "Spagnolo": "Tanto como",
+            "Italiano": "Tanto quanto"
+        },
+        {
+            "Spagnolo": "Sin embargo",
+            "Italiano": "Tuttavia"
+        },
+        {
+            "Spagnolo": "Si bien",
+            "Italiano": "Sebbene o malgrado"
+        },
+        {
+            "Spagnolo": "Quizas",
+            "Italiano": "Forse o magari"
+        },
+        {
+            "Spagnolo": "Así que",
+            "Italiano": "Cosí che"
+        },
+        {
+            "Spagnolo": "Además",
+            "Italiano": "Inoltre"
+        },
+        {
+            "Spagnolo": "Es decir, osea",
+            "Italiano": "Cioè"
+        },
+        {
+            "Spagnolo": "Siempre che",
+            "Italiano": "A patto che"
+        },
+        {
+            "Spagnolo": "De modo que",
+            "Italiano": "Affinché o In modo che "
+        },
+        {
+            "Spagnolo": "Por consiguiente",
+            "Italiano": "Di conseguenza"
         }
     ],
     "Frutti e verdure": [
@@ -1219,7 +1291,7 @@
             "Italiano": "Fedele"
         },
         {
-            "Spagnolo": "Frío (de carácter)",
+            "Spagnolo": "Frío",
             "Italiano": "Freddo"
         },
         {
@@ -1347,6 +1419,96 @@
         {
             "Spagnolo": "Una broma",
             "Italiano": "Uno scherzo"
+        }
+    ],
+    "Verbi": [
+        {
+            "Spagnolo": "Licuar",
+            "Italiano": "Frullare"
+        },
+        {
+            "Spagnolo": "Mezclar",
+            "Italiano": "Mescolare"
+        },
+        {
+            "Spagnolo": "Asustar",
+            "Italiano": "Spaventare"
+        },
+        {
+            "Spagnolo": "Golpear",
+            "Italiano": "Colpire"
+        },
+        {
+            "Spagnolo": "Ahogarse con comida",
+            "Italiano": "Soffocare"
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
+        },
+        {
+            "Spagnolo": NaN,
+            "Italiano": NaN
         }
     ],
     "Vestiti": [
