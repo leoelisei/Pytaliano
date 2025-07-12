@@ -643,6 +643,120 @@
             "Italiano": "Lo specchio"
         }
     ],
+    "Congiunzioni": [
+        {
+            "Spagnolo": "Tanto como",
+            "Italiano": "Tanto quanto"
+        },
+        {
+            "Spagnolo": "Sin embargo",
+            "Italiano": "Tuttavia"
+        },
+        {
+            "Spagnolo": "Quizas",
+            "Italiano": "Forse o magari"
+        },
+        {
+            "Spagnolo": "Así que",
+            "Italiano": "Cosí che"
+        },
+        {
+            "Spagnolo": "Además",
+            "Italiano": "Inoltre"
+        },
+        {
+            "Spagnolo": "Es decir, osea",
+            "Italiano": "Cioè"
+        },
+        {
+            "Spagnolo": "Siempre che",
+            "Italiano": "A patto che"
+        },
+        {
+            "Spagnolo": "De modo que",
+            "Italiano": "Affinché o In modo che "
+        },
+        {
+            "Spagnolo": "Por consiguiente",
+            "Italiano": "Di conseguenza"
+        },
+        {
+            "Spagnolo": "En fin",
+            "Italiano": "In somma"
+        },
+        {
+            "Spagnolo": "Mejor dicho, Más bien",
+            "Italiano": "Piuttosto"
+        },
+        {
+            "Spagnolo": "Por eso, por lo tanto",
+            "Italiano": "Perciò"
+        },
+        {
+            "Spagnolo": "de hecho",
+            "Italiano": "Infatti"
+        },
+        {
+            "Spagnolo": "Hasta que",
+            "Italiano": "Finché"
+        },
+        {
+            "Spagnolo": "Ya que",
+            "Italiano": "Poiché"
+        },
+        {
+            "Spagnolo": "Puesto que, como",
+            "Italiano": "Siccome"
+        },
+        {
+            "Spagnolo": "Aunque, si bien",
+            "Italiano": "Sebbene"
+        },
+        {
+            "Spagnolo": "Aunque, si bien",
+            "Italiano": "Malgrado"
+        },
+        {
+            "Spagnolo": "Aunque, si bien",
+            "Italiano": "Benché"
+        },
+        {
+            "Spagnolo": "A pesar de que",
+            "Italiano": "Malgrado"
+        },
+        {
+            "Spagnolo": "A pesar de que",
+            "Italiano": "Nonostante"
+        },
+        {
+            "Spagnolo": "De todos modos, en cualquier caso, sin embargo",
+            "Italiano": "Comunque"
+        },
+        {
+            "Spagnolo": "Por lo tanto, pues, entonces",
+            "Italiano": "Dunque"
+        },
+        {
+            "Spagnolo": "Cualquiera, todo aquel que",
+            "Italiano": "Chiunque"
+        },
+        {
+            "Spagnolo": "sea como sea",
+            "Italiano": "Comunque sia"
+        },
+        {
+            "Spagnolo": "Donde sea, en cualquier lugar",
+            "Italiano": "Dovunque"
+        },
+        {
+            "Spagnolo": "Cualquiera",
+            "Italiano": "Qualunque"
+        },
+        {
+            "Spagnolo": "Cualquiera",
+            "Italiano": "Qualsiasi"
+        }
+    ],
     "Corpo": [
         {
             "Spagnolo": "Los ojos",
@@ -923,56 +1037,8 @@
             "Italiano": "Al massimo"
         },
         {
-            "Spagnolo": "Por lo tanto",
-            "Italiano": "Per tanto o dunque"
-        },
-        {
-            "Spagnolo": "Tanto como",
-            "Italiano": "Tanto quanto"
-        },
-        {
-            "Spagnolo": "Sin embargo",
-            "Italiano": "Tuttavia"
-        },
-        {
-            "Spagnolo": "Aunque, si bien",
-            "Italiano": "Sebbene o malgrado"
-        },
-        {
-            "Spagnolo": "Quizas",
-            "Italiano": "Forse o magari"
-        },
-        {
-            "Spagnolo": "Así que",
-            "Italiano": "Cosí che"
-        },
-        {
-            "Spagnolo": "Además",
-            "Italiano": "Inoltre"
-        },
-        {
-            "Spagnolo": "Es decir, osea",
-            "Italiano": "Cioè"
-        },
-        {
-            "Spagnolo": "Siempre che",
-            "Italiano": "A patto che"
-        },
-        {
-            "Spagnolo": "De modo que",
-            "Italiano": "Affinché o In modo che "
-        },
-        {
-            "Spagnolo": "Por consiguiente",
-            "Italiano": "Di conseguenza"
-        },
-        {
             "Spagnolo": "Todos y cada uno",
             "Italiano": "Tutti quanti"
-        },
-        {
-            "Spagnolo": "En fin",
-            "Italiano": "In somma"
         },
         {
             "Spagnolo": "Me lo merezco",
