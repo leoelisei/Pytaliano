@@ -1,1742 +1,1746 @@
 {
-    "Animali": [
-        {
-            "Spagnolo": "El camello",
-            "Italiano": "Il cammello"
-        },
-        {
-            "Spagnolo": "El perro",
-            "Italiano": "Il cane"
-        },
-        {
-            "Spagnolo": "El canguro",
-            "Italiano": "Il canguro"
-        },
-        {
-            "Spagnolo": "El castor",
-            "Italiano": "Il castoro"
-        },
-        {
-            "Spagnolo": "El caballo",
-            "Italiano": "Il cavallo"
-        },
-        {
-            "Spagnolo": "El ciervo",
-            "Italiano": "Il cervo"
-        },
-        {
-            "Spagnolo": "El cocodrilo",
-            "Italiano": "Il coccodrillo"
-        },
-        {
-            "Spagnolo": "El conejo",
-            "Italiano": "Il coniglio"
-        },
-        {
-            "Spagnolo": "El delfín",
-            "Italiano": "Il delfino"
-        },
-        {
-            "Spagnolo": "El oso hormiguero",
-            "Italiano": "Il formichiere"
-        },
-        {
-            "Spagnolo": "El gallo",
-            "Italiano": "Il gallo"
-        },
-        {
-            "Spagnolo": "El gato",
-            "Italiano": "Il gatto"
-        },
-        {
-            "Spagnolo": "El búho",
-            "Italiano": "Il gufo"
-        },
-        {
-            "Spagnolo": "El león",
-            "Italiano": "Il leone"
-        },
-        {
-            "Spagnolo": "El lobo",
-            "Italiano": "Il lupo"
-        },
-        {
-            "Spagnolo": "El cerdo",
-            "Italiano": "Il maiale"
-        },
-        {
-            "Spagnolo": "El panda",
-            "Italiano": "Il panda"
-        },
-        {
-            "Spagnolo": "El loro",
-            "Italiano": "Il pappagallo"
-        },
-        {
-            "Spagnolo": "El pavo real",
-            "Italiano": "Il pavone"
-        },
-        {
-            "Spagnolo": "El pingüino",
-            "Italiano": "Il pinguino"
-        },
-        {
-            "Spagnolo": "El murciélago",
-            "Italiano": "Il pipistrello"
-        },
-        {
-            "Spagnolo": "El pulpo",
-            "Italiano": "Il polpo"
-        },
-        {
-            "Spagnolo": "El erizo",
-            "Italiano": "Il riccio"
-        },
-        {
-            "Spagnolo": "El rinoceronte",
-            "Italiano": "Il rinoceronte"
-        },
-        {
-            "Spagnolo": "El sapo",
-            "Italiano": "Il rospo"
-        },
-        {
-            "Spagnolo": "La serpiente",
-            "Italiano": "Il serpente"
-        },
-        {
-            "Spagnolo": "El pavo",
-            "Italiano": "Il tacchino"
-        },
-        {
-            "Spagnolo": "El ratón",
-            "Italiano": "Il topo"
-        },
-        {
-            "Spagnolo": "El pato",
-            "Italiano": "L'anatra"
-        },
-        {
-            "Spagnolo": "El águila",
-            "Italiano": "L'aquila"
-        },
-        {
-            "Spagnolo": "El elefante",
-            "Italiano": "L'elefante"
-        },
-        {
-            "Spagnolo": "El hipopótamo",
-            "Italiano": "L'ippopotamo"
-        },
-        {
-            "Spagnolo": "El ganso",
-            "Italiano": "L'oca"
-        },
-        {
-            "Spagnolo": "El oso",
-            "Italiano": "L'orso"
-        },
-        {
-            "Spagnolo": "La ballena",
-            "Italiano": "La balena"
-        },
-        {
-            "Spagnolo": "La cabra",
-            "Italiano": "La capra"
-        },
-        {
-            "Spagnolo": "La gallina",
-            "Italiano": "La gallina"
-        },
-        {
-            "Spagnolo": "La jirafa",
-            "Italiano": "La giraffa"
-        },
-        {
-            "Spagnolo": "La lagartija",
-            "Italiano": "La lucertola"
-        },
-        {
-            "Spagnolo": "La medusa",
-            "Italiano": "La medusa"
-        },
-        {
-            "Spagnolo": "La vaca",
-            "Italiano": "La mucca"
-        },
-        {
-            "Spagnolo": "La oveja",
-            "Italiano": "La pecora"
-        },
-        {
-            "Spagnolo": "La rana",
-            "Italiano": "La rana"
-        },
-        {
-            "Spagnolo": "El mono",
-            "Italiano": "La scimmia"
-        },
-        {
-            "Spagnolo": "La estrella de mar",
-            "Italiano": "La stella marina"
-        },
-        {
-            "Spagnolo": "La tortuga",
-            "Italiano": "La tartaruga"
-        },
-        {
-            "Spagnolo": "El tigre",
-            "Italiano": "La tigre"
-        },
-        {
-            "Spagnolo": "El zorro",
-            "Italiano": "La volpe"
-        },
-        {
-            "Spagnolo": "La cebra",
-            "Italiano": "La zebra"
-        },
-        {
-            "Spagnolo": "El tiburón",
-            "Italiano": "Lo squalo"
-        }
-    ],
-    "Casa e mobili": [
-        {
-            "Spagnolo": "El baño",
-            "Italiano": "Il bagno"
-        },
-        {
-            "Spagnolo": "El balcón",
-            "Italiano": "Il balcone"
-        },
-        {
-            "Spagnolo": "El cubo de basura",
-            "Italiano": "Il bidone"
-        },
-        {
-            "Spagnolo": "El hervidor",
-            "Italiano": "Il bollitore"
-        },
-        {
-            "Spagnolo": "La chimenea",
-            "Italiano": "Il camino"
-        },
-        {
-            "Spagnolo": "El timbre",
-            "Italiano": "Il campanello"
-        },
-        {
-            "Spagnolo": "La reja/portón",
-            "Italiano": "Il cancello"
-        },
-        {
-            "Spagnolo": "El cargador",
-            "Italiano": "Il caricabatterie"
-        },
-        {
-            "Spagnolo": "El interfono",
-            "Italiano": "Il citofono"
-        },
-        {
-            "Spagnolo": "El colador",
-            "Italiano": "Il colapasta"
-        },
-        {
-            "Spagnolo": "La mesita de noche",
-            "Italiano": "Il comodino"
-        },
-        {
-            "Spagnolo": "El ordenador",
-            "Italiano": "Il computer"
-        },
-        {
-            "Spagnolo": "El aire acondicionado",
-            "Italiano": "L'aria condizionata"
-        },
-        {
-            "Spagnolo": "El congelador",
-            "Italiano": "Il congelatore"
-        },
-        {
-            "Spagnolo": "El recipiente",
-            "Italiano": "Il contenitore"
-        },
-        {
-            "Spagnolo": "El pasillo",
-            "Italiano": "Il corridoio"
-        },
-        {
-            "Spagnolo": "El cojín",
-            "Italiano": "Il cuscino"
-        },
-        {
-            "Spagnolo": "El detergente",
-            "Italiano": "Il detersivo"
-        },
-        {
-            "Spagnolo": "El sofá",
-            "Italiano": "Il divano"
-        },
-        {
-            "Spagnolo": "La cocina (fuego)",
-            "Italiano": "Il fornello"
-        },
-        {
-            "Spagnolo": "El horno",
-            "Italiano": "Il forno"
-        },
-        {
-            "Spagnolo": "La nevera",
-            "Italiano": "Il frigorifero"
-        },
-        {
-            "Spagnolo": "La licuadora",
-            "Italiano": "Il frullatore"
-        },
-        {
-            "Spagnolo": "El garaje",
-            "Italiano": "Il garage"
-        },
-        {
-            "Spagnolo": "El jardín",
-            "Italiano": "Il giardino"
-        },
-        {
-            "Spagnolo": "El ropero",
-            "Italiano": "Il guardaroba"
-        },
-        {
-            "Spagnolo": "La lámpara de techo",
-            "Italiano": "Il lampadario"
-        },
-        {
-            "Spagnolo": "El lavabo",
-            "Italiano": "Il lavandino"
-        },
-        {
-            "Spagnolo": "La cama",
-            "Italiano": "Il letto"
-        },
-        {
-            "Spagnolo": "El colchón",
-            "Italiano": "Il materasso"
-        },
-        {
-            "Spagnolo": "El cucharón",
-            "Italiano": "Il mestolo"
-        },
-        {
-            "Spagnolo": "El microondas",
-            "Italiano": "Il microonde"
-        },
-        {
-            "Spagnolo": "El mueble",
-            "Italiano": "Il mobile"
-        },
-        {
-            "Spagnolo": "El mueble de televisión",
-            "Italiano": "Il mobile TV"
-        },
-        {
-            "Spagnolo": "La fregona",
-            "Italiano": "Il mocio"
-        },
-        {
-            "Spagnolo": "La pared",
-            "Italiano": "Il muro"
-        },
-        {
-            "Spagnolo": "El suelo",
-            "Italiano": "Il pavimento"
-        },
-        {
-            "Spagnolo": "El edredón",
-            "Italiano": "Il piumone"
-        },
-        {
-            "Spagnolo": "El cesto de la ropa",
-            "Italiano": "Il portabiancheria"
-        },
-        {
-            "Spagnolo": "El soporte de cuchillos",
-            "Italiano": "Il portacoltelli"
-        },
-        {
-            "Spagnolo": "El paragüero",
-            "Italiano": "Il portaombrelli"
-        },
-        {
-            "Spagnolo": "La panera",
-            "Italiano": "Il portapane"
-        },
-        {
-            "Spagnolo": "El jabonero",
-            "Italiano": "Il portasapone"
-        },
-        {
-            "Spagnolo": "El especiero",
-            "Italiano": "Il portaspezie"
-        },
-        {
-            "Spagnolo": "El cuadro",
-            "Italiano": "Il quadro"
-        },
-        {
-            "Spagnolo": "El cuadro eléctrico",
-            "Italiano": "Il quadro elettrico"
-        },
-        {
-            "Spagnolo": "El grifo",
-            "Italiano": "Il rubinetto"
-        },
-        {
-            "Spagnolo": "El salón",
-            "Italiano": "Il salotto"
-        },
-        {
-            "Spagnolo": "El cubo",
-            "Italiano": "Il secchio"
-        },
-        {
-            "Spagnolo": "El techo",
-            "Italiano": "Il soffitto"
-        },
-        {
-            "Spagnolo": "La tabla de cortar",
-            "Italiano": "Il tagliere"
-        },
-        {
-            "Spagnolo": "La alfombra",
-            "Italiano": "Il tappeto"
-        },
-        {
-            "Spagnolo": "La mesita",
-            "Italiano": "Il tavolino"
-        },
-        {
-            "Spagnolo": "La mesa",
-            "Italiano": "Il tavolo"
-        },
-        {
-            "Spagnolo": "El mando a distancia",
-            "Italiano": "Il telecomando"
-        },
-        {
-            "Spagnolo": "El tejado",
-            "Italiano": "Il tetto"
-        },
-        {
-            "Spagnolo": "La tostadora",
-            "Italiano": "Il tostapane"
-        },
-        {
-            "Spagnolo": "La servilleta",
-            "Italiano": "Il tovagliolo"
-        },
-        {
-            "Spagnolo": "La bandeja",
-            "Italiano": "Il vassoio"
-        },
-        {
-            "Spagnolo": "El ventilador",
-            "Italiano": "Il ventilatore"
-        },
-        {
-            "Spagnolo": "El inodoro",
-            "Italiano": "Il water"
-        },
-        {
-            "Spagnolo": "El armario",
-            "Italiano": "L’armadio"
-        },
-        {
-            "Spagnolo": "La secadora",
-            "Italiano": "L’asciugatrice"
-        },
-        {
-            "Spagnolo": "La entrada",
-            "Italiano": "L'ingresso"
-        },
-        {
-            "Spagnolo": "La balanza",
-            "Italiano": "La bilancia"
-        },
-        {
-            "Spagnolo": "El dormitorio",
-            "Italiano": "La camera da letto"
-        },
-        {
-            "Spagnolo": "El sótano",
-            "Italiano": "La cantina"
-        },
-        {
-            "Spagnolo": "La cómoda",
-            "Italiano": "La cassettiera"
-        },
-        {
-            "Spagnolo": "La cesta",
-            "Italiano": "La cesta"
-        },
-        {
-            "Spagnolo": "La llave",
-            "Italiano": "La chiave"
-        },
-        {
-            "Spagnolo": "La manta",
-            "Italiano": "La coperta"
-        },
-        {
-            "Spagnolo": "El aparador",
-            "Italiano": "La credenza"
-        },
-        {
-            "Spagnolo": "La casita del perro",
-            "Italiano": "La cuccia"
-        },
-        {
-            "Spagnolo": "La cocina",
-            "Italiano": "La cucina"
-        },
-        {
-            "Spagnolo": "La ducha",
-            "Italiano": "La doccia"
-        },
-        {
-            "Spagnolo": "La ventana",
-            "Italiano": "La finestra"
-        },
-        {
-            "Spagnolo": "El rallador",
-            "Italiano": "La grattugia"
-        },
-        {
-            "Spagnolo": "La lámpara",
-            "Italiano": "La lampada"
-        },
-        {
-            "Spagnolo": "El lavavajillas",
-            "Italiano": "La lavastoviglie"
-        },
-        {
-            "Spagnolo": "La lavadora",
-            "Italiano": "La lavatrice"
-        },
-        {
-            "Spagnolo": "La estantería",
-            "Italiano": "La libreria"
-        },
-        {
-            "Spagnolo": "La cafetera",
-            "Italiano": "La macchina del caffè"
-        },
-        {
-            "Spagnolo": "La repisa",
-            "Italiano": "La mensola"
-        },
-        {
-            "Spagnolo": "La sartén",
-            "Italiano": "La padella"
-        },
-        {
-            "Spagnolo": "La pared (interna)",
-            "Italiano": "La parete"
-        },
-        {
-            "Spagnolo": "La papelera",
-            "Italiano": "La pattumiera"
-        },
-        {
-            "Spagnolo": "La olla",
-            "Italiano": "La pentola"
-        },
-        {
-            "Spagnolo": "El sillón",
-            "Italiano": "La poltrona"
-        },
-        {
-            "Spagnolo": "La puerta",
-            "Italiano": "La porta"
-        },
-        {
-            "Spagnolo": "El enchufe",
-            "Italiano": "La presa"
-        },
-        {
-            "Spagnolo": "El jabón",
-            "Italiano": "La saponetta"
-        },
-        {
-            "Spagnolo": "La escalera",
-            "Italiano": "La scala"
-        },
-        {
-            "Spagnolo": "La escalera de caracol",
-            "Italiano": "La scala a chiocciola"
-        },
-        {
-            "Spagnolo": "La escoba",
-            "Italiano": "La scopa"
-        },
-        {
-            "Spagnolo": "El escritorio",
-            "Italiano": "La scrivania"
-        },
-        {
-            "Spagnolo": "La silla",
-            "Italiano": "La sedia"
-        },
-        {
-            "Spagnolo": "La persiana",
-            "Italiano": "La serranda"
-        },
-        {
-            "Spagnolo": "El desván",
-            "Italiano": "La soffitta"
-        },
-        {
-            "Spagnolo": "La esponja",
-            "Italiano": "La spugna"
-        },
-        {
-            "Spagnolo": "La estufa",
-            "Italiano": "La stufa"
-        },
-        {
-            "Spagnolo": "La estufa de gas",
-            "Italiano": "La stufa a gas"
-        },
-        {
-            "Spagnolo": "La cortina",
-            "Italiano": "La tenda"
-        },
-        {
-            "Spagnolo": "La terraza",
-            "Italiano": "La terrazza"
-        },
-        {
-            "Spagnolo": "El mantel",
-            "Italiano": "La tovaglia"
-        },
-        {
-            "Spagnolo": "La televisión",
-            "Italiano": "La TV"
-        },
-        {
-            "Spagnolo": "La bañera",
-            "Italiano": "La vasca da bagno"
-        },
-        {
-            "Spagnolo": "La vitrina",
-            "Italiano": "La vetrina"
-        },
-        {
-            "Spagnolo": "Las sábanas",
-            "Italiano": "Le lenzuola"
-        },
-        {
-            "Spagnolo": "El desagüe",
-            "Italiano": "Lo scarico"
-        },
-        {
-            "Spagnolo": "El espejo",
-            "Italiano": "Lo specchio"
-        }
-    ],
-    "Congiunzioni": [
-        {
-            "Spagnolo": "Tanto como",
-            "Italiano": "Tanto quanto"
-        },
-        {
-            "Spagnolo": "Sin embargo",
-            "Italiano": "Tuttavia"
-        },
-        {
-            "Spagnolo": "Quizas",
-            "Italiano": "Forse o magari"
-        },
-        {
-            "Spagnolo": "Así que",
-            "Italiano": "Cosí che"
-        },
-        {
-            "Spagnolo": "Además",
-            "Italiano": "Inoltre"
-        },
-        {
-            "Spagnolo": "Es decir, osea",
-            "Italiano": "Cioè"
-        },
-        {
-            "Spagnolo": "Siempre che",
-            "Italiano": "A patto che"
-        },
-        {
-            "Spagnolo": "De modo que",
-            "Italiano": "Affinché o In modo che "
-        },
-        {
-            "Spagnolo": "Por consiguiente",
-            "Italiano": "Di conseguenza"
-        },
-        {
-            "Spagnolo": "En fin",
-            "Italiano": "In somma"
-        },
-        {
-            "Spagnolo": "Mejor dicho, Más bien",
-            "Italiano": "Piuttosto"
-        },
-        {
-            "Spagnolo": "Por eso, por lo tanto",
-            "Italiano": "Perciò"
-        },
-        {
-            "Spagnolo": "de hecho",
-            "Italiano": "Infatti"
-        },
-        {
-            "Spagnolo": "Hasta que",
-            "Italiano": "Finché"
-        },
-        {
-            "Spagnolo": "Ya que",
-            "Italiano": "Poiché"
-        },
-        {
-            "Spagnolo": "Puesto que, como",
-            "Italiano": "Siccome"
-        },
-        {
-            "Spagnolo": "Aunque, si bien",
-            "Italiano": "Sebbene"
-        },
-        {
-            "Spagnolo": "Aunque, si bien",
-            "Italiano": "Malgrado"
-        },
-        {
-            "Spagnolo": "Aunque, si bien",
-            "Italiano": "Benché"
-        },
-        {
-            "Spagnolo": "A pesar de que",
-            "Italiano": "Malgrado"
-        },
-        {
-            "Spagnolo": "A pesar de que",
-            "Italiano": "Nonostante"
-        },
-        {
-            "Spagnolo": "De todos modos, en cualquier caso, sin embargo",
-            "Italiano": "Comunque"
-        },
-        {
-            "Spagnolo": "Por lo tanto, pues, entonces",
-            "Italiano": "Dunque"
-        },
-        {
-            "Spagnolo": "Cualquiera, todo aquel que",
-            "Italiano": "Chiunque"
-        },
-        {
-            "Spagnolo": "sea como sea",
-            "Italiano": "Comunque sia"
-        },
-        {
-            "Spagnolo": "Donde sea, en cualquier lugar",
-            "Italiano": "Dovunque"
-        },
-        {
-            "Spagnolo": "Cualquiera",
-            "Italiano": "Qualunque"
-        },
-        {
-            "Spagnolo": "Cualquiera",
-            "Italiano": "Qualsiasi"
-        }
-    ],
-    "Corpo": [
-        {
-            "Spagnolo": "Los ojos",
-            "Italiano": "Gli occhi"
-        },
-        {
-            "Spagnolo": "Los dientes",
-            "Italiano": "I denti"
-        },
-        {
-            "Spagnolo": "Los pies",
-            "Italiano": "I piedi"
-        },
-        {
-            "Spagnolo": "El brazo",
-            "Italiano": "Il braccio"
-        },
-        {
-            "Spagnolo": "El cerebro",
-            "Italiano": "Il cervello"
-        },
-        {
-            "Spagnolo": "El cuello",
-            "Italiano": "Il collo"
-        },
-        {
-            "Spagnolo": "El corazón",
-            "Italiano": "Il cuore"
-        },
-        {
-            "Spagnolo": "El dedo",
-            "Italiano": "Il dito"
-        },
-        {
-            "Spagnolo": "El hígado",
-            "Italiano": "Il fegato"
-        },
-        {
-            "Spagnolo": "El costado",
-            "Italiano": "Il fianco"
-        },
-        {
-            "Spagnolo": "La rodilla",
-            "Italiano": "Il ginocchio"
-        },
-        {
-            "Spagnolo": "El codo",
-            "Italiano": "Il gomito"
-        },
-        {
-            "Spagnolo": "La barbilla",
-            "Italiano": "Il mento"
-        },
-        {
-            "Spagnolo": "El músculo",
-            "Italiano": "Il muscolo"
-        },
-        {
-            "Spagnolo": "La nariz",
-            "Italiano": "Il naso"
-        },
-        {
-            "Spagnolo": "El pecho",
-            "Italiano": "Il petto"
-        },
-        {
-            "Spagnolo": "El pie",
-            "Italiano": "Il piede"
-        },
-        {
-            "Spagnolo": "El pulmón",
-            "Italiano": "Il polmone"
-        },
-        {
-            "Spagnolo": "La pantorrilla",
-            "Italiano": "Il polpaccio"
-        },
-        {
-            "Spagnolo": "La muñeca",
-            "Italiano": "Il polso"
-        },
-        {
-            "Spagnolo": "La sangre",
-            "Italiano": "Il sangue"
-        },
-        {
-            "Spagnolo": "El trasero",
-            "Italiano": "Il sedere"
-        },
-        {
-            "Spagnolo": "El seno",
-            "Italiano": "Il seno"
-        },
-        {
-            "Spagnolo": "El talón",
-            "Italiano": "Il tallone"
-        },
-        {
-            "Spagnolo": "La cara",
-            "Italiano": "Il viso"
-        },
-        {
-            "Spagnolo": "El abdomen",
-            "Italiano": "L’addome"
-        },
-        {
-            "Spagnolo": "El ojo",
-            "Italiano": "L’occhio"
-        },
-        {
-            "Spagnolo": "La oreja",
-            "Italiano": "L’orecchio"
-        },
-        {
-            "Spagnolo": "El hueso",
-            "Italiano": "L’osso"
-        },
-        {
-            "Spagnolo": "La boca",
-            "Italiano": "La bocca"
-        },
-        {
-            "Spagnolo": "El tobillo",
-            "Italiano": "La caviglia"
-        },
-        {
-            "Spagnolo": "El muslo",
-            "Italiano": "La coscia"
-        },
-        {
-            "Spagnolo": "La frente",
-            "Italiano": "La fronte"
-        },
-        {
-            "Spagnolo": "La pierna",
-            "Italiano": "La gamba"
-        },
-        {
-            "Spagnolo": "La garganta",
-            "Italiano": "La gola"
-        },
-        {
-            "Spagnolo": "La mejilla",
-            "Italiano": "La guancia"
-        },
-        {
-            "Spagnolo": "La lengua",
-            "Italiano": "La lingua"
-        },
-        {
-            "Spagnolo": "La mano",
-            "Italiano": "La mano"
-        },
-        {
-            "Spagnolo": "La barriga",
-            "Italiano": "La pancia"
-        },
-        {
-            "Spagnolo": "La piel",
-            "Italiano": "La pelle"
-        },
-        {
-            "Spagnolo": "La espalda",
-            "Italiano": "La schiena"
-        },
-        {
-            "Spagnolo": "El hombro",
-            "Italiano": "La spalla"
-        },
-        {
-            "Spagnolo": "La cabeza",
-            "Italiano": "La testa"
-        },
-        {
-            "Spagnolo": "Los brazos",
-            "Italiano": "Le braccia"
-        },
-        {
-            "Spagnolo": "Los dedos",
-            "Italiano": "Le dita"
-        },
-        {
-            "Spagnolo": "Las piernas",
-            "Italiano": "Le gambe"
-        },
-        {
-            "Spagnolo": "Las rodillas",
-            "Italiano": "Le ginocchia"
-        },
-        {
-            "Spagnolo": "Las manos",
-            "Italiano": "Le mani"
-        },
-        {
-            "Spagnolo": "Las orejas",
-            "Italiano": "Le orecchie"
-        },
-        {
-            "Spagnolo": "El estómago",
-            "Italiano": "Lo stomaco"
-        }
-    ],
-    "Espressioni": [
-        {
-            "Spagnolo": "De inmediato, enseguida",
-            "Italiano": "Al volo"
-        },
-        {
-            "Spagnolo": "Me las arreglo, puedo hacerlo",
-            "Italiano": "Ce la faccio"
-        },
-        {
-            "Spagnolo": "Que embole",
-            "Italiano": "Che pizza"
-        },
-        {
-            "Spagnolo": "A quien le importa",
-            "Italiano": "Chi se ne frega?"
-        },
-        {
-            "Spagnolo": "No se puede creer",
-            "Italiano": "Da non credere"
-        },
-        {
-            "Spagnolo": "No hay de que",
-            "Italiano": "Figurati"
-        },
-        {
-            "Spagnolo": "no me digas",
-            "Italiano": "Ma dai"
-        },
-        {
-            "Spagnolo": "Que va",
-            "Italiano": "Macché"
-        },
-        {
-            "Spagnolo": "Caramba",
-            "Italiano": "Mannaggia"
-        },
-        {
-            "Spagnolo": "Ni tan mal",
-            "Italiano": "Mica male"
-        },
-        {
-            "Spagnolo": "No pasa nada",
-            "Italiano": "Non fa niente"
-        },
-        {
-            "Spagnolo": "No puedo más",
-            "Italiano": "Non ne posso più"
-        },
-        {
-            "Spagnolo": "Estoy a reventar",
-            "Italiano": "Mi sono sfondato"
-        },
-        {
-            "Spagnolo": "Vete de aquí",
-            "Italiano": "Vai via! Vattene"
-        },
-        {
-            "Spagnolo": "Que barbaro! (Positivo)",
-            "Italiano": "Che forte"
-        },
-        {
-            "Spagnolo": "Ni de coña",
-            "Italiano": "Col cavolo"
-        },
-        {
-            "Spagnolo": "De casualidad",
-            "Italiano": "Per caso"
-        },
-        {
-            "Spagnolo": "De pedo",
-            "Italiano": "Per fortuna"
-        },
-        {
-            "Spagnolo": "Como mucho",
-            "Italiano": "Al massimo"
-        },
-        {
-            "Spagnolo": "Todos y cada uno",
-            "Italiano": "Tutti quanti"
-        },
-        {
-            "Spagnolo": "Me lo merezco",
-            "Italiano": "Me lo merito"
-        },
-        {
-            "Spagnolo": "Cada vez mas",
-            "Italiano": "Sempre più"
-        },
-        {
-            "Spagnolo": "De la noche a la mañana (se dice al reves)",
-            "Italiano": "Dal giorno alla notte"
-        },
-        {
-            "Spagnolo": "Papa caliente (metafora)",
-            "Italiano": "Patata bollente"
-        }
-    ],
-    "Frutti e verdure": [
-        {
-            "Spagnolo": "El brócoli",
-            "Italiano": "Il broccolo"
-        },
-        {
-            "Spagnolo": "El caqui",
-            "Italiano": "Il cachi"
-        },
-        {
-            "Spagnolo": "La alcachofa",
-            "Italiano": "Il carciofo"
-        },
-        {
-            "Spagnolo": "La coliflor",
-            "Italiano": "Il cavolfiore"
-        },
-        {
-            "Spagnolo": "El repollo",
-            "Italiano": "Il cavolo"
-        },
-        {
-            "Spagnolo": "El pepino",
-            "Italiano": "Il cetriolo"
-        },
-        {
-            "Spagnolo": "El coco",
-            "Italiano": "Il cocco"
-        },
-        {
-            "Spagnolo": "El dátil",
-            "Italiano": "Il dattero"
-        },
-        {
-            "Spagnolo": "El higo",
-            "Italiano": "Il fico"
-        },
-        {
-            "Spagnolo": "El hinojo",
-            "Italiano": "Il finocchio"
-        },
-        {
-            "Spagnolo": "El kiwi",
-            "Italiano": "Il kiwi"
-        },
-        {
-            "Spagnolo": "La frambuesa",
-            "Italiano": "Il lampone"
-        },
-        {
-            "Spagnolo": "El limón",
-            "Italiano": "Il limone"
-        },
-        {
-            "Spagnolo": "El maíz",
-            "Italiano": "Il mais"
-        },
-        {
-            "Spagnolo": "La mandarina",
-            "Italiano": "Il mandarino"
-        },
-        {
-            "Spagnolo": "El mango",
-            "Italiano": "Il mango"
-        },
-        {
-            "Spagnolo": "La granada",
-            "Italiano": "Il melograno"
-        },
-        {
-            "Spagnolo": "El melón",
-            "Italiano": "Il melone"
-        },
-        {
-            "Spagnolo": "El arándano",
-            "Italiano": "Il mirtillo"
-        },
-        {
-            "Spagnolo": "El maracuyá",
-            "Italiano": "Il passion fruit"
-        },
-        {
-            "Spagnolo": "El pimiento",
-            "Italiano": "Il peperone"
-        },
-        {
-            "Spagnolo": "El guisante",
-            "Italiano": "Il pisello"
-        },
-        {
-            "Spagnolo": "El tomate",
-            "Italiano": "Il pomodoro"
-        },
-        {
-            "Spagnolo": "El pomelo",
-            "Italiano": "Il pompelmo"
-        },
-        {
-            "Spagnolo": "El puerro",
-            "Italiano": "Il porro"
-        },
-        {
-            "Spagnolo": "El nabo",
-            "Italiano": "Il rapanello"
-        },
-        {
-            "Spagnolo": "El rábano",
-            "Italiano": "Il ravanello"
-        },
-        {
-            "Spagnolo": "El apio",
-            "Italiano": "Il sedano"
-        },
-        {
-            "Spagnolo": "El ajo",
-            "Italiano": "L’aglio"
-        },
-        {
-            "Spagnolo": "La sandía",
-            "Italiano": "L’anguria"
-        },
-        {
-            "Spagnolo": "La naranja",
-            "Italiano": "L'arancia"
-        },
-        {
-            "Spagnolo": "La uva",
-            "Italiano": "L'uva"
-        },
-        {
-            "Spagnolo": "El plátano",
-            "Italiano": "La banana"
-        },
-        {
-            "Spagnolo": "La remolacha",
-            "Italiano": "La barbabietola"
-        },
-        {
-            "Spagnolo": "La acelga",
-            "Italiano": "La bietola"
-        },
-        {
-            "Spagnolo": "La zanahoria",
-            "Italiano": "La carota"
-        },
-        {
-            "Spagnolo": "La cereza",
-            "Italiano": "La ciliegia"
-        },
-        {
-            "Spagnolo": "La cebolla",
-            "Italiano": "La cipolla"
-        },
-        {
-            "Spagnolo": "La fresa",
-            "Italiano": "La fragola"
-        },
-        {
-            "Spagnolo": "La guayaba",
-            "Italiano": "La guava"
-        },
-        {
-            "Spagnolo": "La lechuga",
-            "Italiano": "La lattuga"
-        },
-        {
-            "Spagnolo": "La manzana",
-            "Italiano": "La mela"
-        },
-        {
-            "Spagnolo": "La berenjena",
-            "Italiano": "La melanzana"
-        },
-        {
-            "Spagnolo": "La mora",
-            "Italiano": "La mora"
-        },
-        {
-            "Spagnolo": "La patata",
-            "Italiano": "La patata"
-        },
-        {
-            "Spagnolo": "La pera",
-            "Italiano": "La pera"
-        },
-        {
-            "Spagnolo": "El durazno",
-            "Italiano": "La pesca"
-        },
-        {
-            "Spagnolo": "La ciruela",
-            "Italiano": "La prugna"
-        },
-        {
-            "Spagnolo": "La rúcula",
-            "Italiano": "La rucola"
-        },
-        {
-            "Spagnolo": "La calabaza",
-            "Italiano": "La zucca"
-        },
-        {
-            "Spagnolo": "El calabacín",
-            "Italiano": "La zucchina"
-        },
-        {
-            "Spagnolo": "El tomillo",
-            "Italiano": "Il timo"
-        },
-        {
-            "Spagnolo": "El orégano",
-            "Italiano": "L' origano"
-        },
-        {
-            "Spagnolo": "El perejil",
-            "Italiano": "Il prezzemolo"
-        },
-        {
-            "Spagnolo": "La albahaca",
-            "Italiano": "Il basilico"
-        },
-        {
-            "Spagnolo": "El cilantro",
-            "Italiano": "Il coriandolo"
-        },
-        {
-            "Spagnolo": "La menta",
-            "Italiano": "La menta"
-        },
-        {
-            "Spagnolo": "La pimienta",
-            "Italiano": "Il peperone"
-        },
-        {
-            "Spagnolo": "La manzanilla",
-            "Italiano": "La camomilla"
-        },
-        {
-            "Spagnolo": "La lavanda",
-            "Italiano": "La lavanda"
-        }
-    ],
-    "Personalità": [
-        {
-            "Spagnolo": "Cariñoso",
-            "Italiano": "Affettuoso"
-        },
-        {
-            "Spagnolo": "Confiable",
-            "Italiano": "Affidabile"
-        },
-        {
-            "Spagnolo": "Alegre",
-            "Italiano": "Allegro"
-        },
-        {
-            "Spagnolo": "Ambicioso",
-            "Italiano": "Ambizioso"
-        },
-        {
-            "Spagnolo": "Ansioso",
-            "Italiano": "Ansioso"
-        },
-        {
-            "Spagnolo": "Antipático",
-            "Italiano": "Antipatico"
-        },
-        {
-            "Spagnolo": "Brillante",
-            "Italiano": "Brillante"
-        },
-        {
-            "Spagnolo": "Tranquilo",
-            "Italiano": "Calmo"
-        },
-        {
-            "Spagnolo": "Cobarde",
-            "Italiano": "Codardo"
-        },
-        {
-            "Spagnolo": "Valiente",
-            "Italiano": "Coraggioso"
-        },
-        {
-            "Spagnolo": "Creativo",
-            "Italiano": "Creativo"
-        },
-        {
-            "Spagnolo": "Curioso",
-            "Italiano": "Curioso"
-        },
-        {
-            "Spagnolo": "Discreto",
-            "Italiano": "Discreto"
-        },
-        {
-            "Spagnolo": "Desenvuelto",
-            "Italiano": "Disinvolto"
-        },
-        {
-            "Spagnolo": "Distante",
-            "Italiano": "Distaccato"
-        },
-        {
-            "Spagnolo": "Divertido",
-            "Italiano": "Divertente"
-        },
-        {
-            "Spagnolo": "Dulce",
-            "Italiano": "Dolce"
-        },
-        {
-            "Spagnolo": "Educado",
-            "Italiano": "Educato"
-        },
-        {
-            "Spagnolo": "Empático",
-            "Italiano": "Empatico"
-        },
-        {
-            "Spagnolo": "Fiel",
-            "Italiano": "Fedele"
-        },
-        {
-            "Spagnolo": "Frío",
-            "Italiano": "Freddo"
-        },
-        {
-            "Spagnolo": "Astuto",
-            "Italiano": "Furbo"
-        },
-        {
-            "Spagnolo": "Amable",
-            "Italiano": "Gentile"
-        },
-        {
-            "Spagnolo": "Juguetón",
-            "Italiano": "Giocoso"
-        },
-        {
-            "Spagnolo": "Imprudente",
-            "Italiano": "Imprudente"
-        },
-        {
-            "Spagnolo": "Impulsivo",
-            "Italiano": "Impulsivo"
-        },
-        {
-            "Spagnolo": "Inocente",
-            "Italiano": "Innocente"
-        },
-        {
-            "Spagnolo": "Inquieto",
-            "Italiano": "Inquieto"
-        },
-        {
-            "Spagnolo": "Inteligente",
-            "Italiano": "Intelligente"
-        },
-        {
-            "Spagnolo": "Envidioso",
-            "Italiano": "Invidioso"
-        },
-        {
-            "Spagnolo": "Trabajador",
-            "Italiano": "Laborioso"
-        },
-        {
-            "Spagnolo": "Travieso",
-            "Italiano": "Malizioso"
-        },
-        {
-            "Spagnolo": "Modesto",
-            "Italiano": "Modesto"
-        },
-        {
-            "Spagnolo": "Honesto",
-            "Italiano": "Onesto"
-        },
-        {
-            "Spagnolo": "Paciente",
-            "Italiano": "Paziente"
-        },
-        {
-            "Spagnolo": "Susceptible",
-            "Italiano": "Permaloso"
-        },
-        {
-            "Spagnolo": "Perezoso",
-            "Italiano": "Pigro"
-        },
-        {
-            "Spagnolo": "Responsable",
-            "Italiano": "Responsabile"
-        },
-        {
-            "Spagnolo": "Reflexivo",
-            "Italiano": "Riflessivo"
-        },
-        {
-            "Spagnolo": "Romántico",
-            "Italiano": "Romantico"
-        },
-        {
-            "Spagnolo": "Serio",
-            "Italiano": "Serio"
-        },
-        {
-            "Spagnolo": "Simpática",
-            "Italiano": "Simpatica"
-        },
-        {
-            "Spagnolo": "Sincero",
-            "Italiano": "Sincero"
-        },
-        {
-            "Spagnolo": "Sociable",
-            "Italiano": "Socievole"
-        },
-        {
-            "Spagnolo": "Espontáneo",
-            "Italiano": "Spontaneo"
-        },
-        {
-            "Spagnolo": "Soberbio",
-            "Italiano": "Superbo"
-        },
-        {
-            "Spagnolo": "Terco",
-            "Italiano": "Testardo"
-        },
-        {
-            "Spagnolo": "Tímido",
-            "Italiano": "Timido"
-        },
-        {
-            "Spagnolo": "Torpe",
-            "Italiano": "Torpe"
-        },
-        {
-            "Spagnolo": "Triste",
-            "Italiano": "Triste"
-        }
-    ],
-    "Variato": [
-        {
-            "Spagnolo": "Una estafa",
-            "Italiano": "Una truffa"
-        },
-        {
-            "Spagnolo": "Una broma",
-            "Italiano": "Uno scherzo"
-        }
-    ],
-    "Verbi": [
-        {
-            "Spagnolo": "Licuar",
-            "Italiano": "Frullare"
-        },
-        {
-            "Spagnolo": "Mezclar",
-            "Italiano": "Mescolare"
-        },
-        {
-            "Spagnolo": "Asustar",
-            "Italiano": "Spaventare"
-        },
-        {
-            "Spagnolo": "Golpear",
-            "Italiano": "Colpire"
-        },
-        {
-            "Spagnolo": "Colapsar",
-            "Italiano": "Collare"
-        },
-        {
-            "Spagnolo": "Ahogarse con comida",
-            "Italiano": "Soffocare"
-        }
-    ],
-    "Vestiti": [
-        {
-            "Spagnolo": "Las botas",
-            "Italiano": "Gli stivali"
-        },
-        {
-            "Spagnolo": "Los calzoncillos",
-            "Italiano": "I boxer"
-        },
-        {
-            "Spagnolo": "Las medias",
-            "Italiano": "I collant"
-        },
-        {
-            "Spagnolo": "Los guantes",
-            "Italiano": "I guanti"
-        },
-        {
-            "Spagnolo": "Los vaqueros",
-            "Italiano": "I jeans"
-        },
-        {
-            "Spagnolo": "Los pantalones cortos",
-            "Italiano": "I pantaloncini"
-        },
-        {
-            "Spagnolo": "Los pantalones",
-            "Italiano": "I pantaloni"
-        },
-        {
-            "Spagnolo": "Las sandalias",
-            "Italiano": "I sandali"
-        },
-        {
-            "Spagnolo": "La gorra",
-            "Italiano": "Il berretto"
-        },
-        {
-            "Spagnolo": "El body",
-            "Italiano": "Il body"
-        },
-        {
-            "Spagnolo": "El sombrero",
-            "Italiano": "Il cappello"
-        },
-        {
-            "Spagnolo": "El abrigo",
-            "Italiano": "Il cappotto"
-        },
-        {
-            "Spagnolo": "La capucha",
-            "Italiano": "Il cappuccio"
-        },
-        {
-            "Spagnolo": "El traje de baño",
-            "Italiano": "Il costume da bagno"
-        },
-        {
-            "Spagnolo": "El pañuelo",
-            "Italiano": "Il foulard"
-        },
-        {
-            "Spagnolo": "El chaleco",
-            "Italiano": "Il gilet"
-        },
-        {
-            "Spagnolo": "El kimono",
-            "Italiano": "Il kimono"
-        },
-        {
-            "Spagnolo": "El suéter",
-            "Italiano": "Il maglione"
-        },
-        {
-            "Spagnolo": "El chaleco formal",
-            "Italiano": "Il panciotto"
-        },
-        {
-            "Spagnolo": "La pajarita",
-            "Italiano": "Il papillon"
-        },
-        {
-            "Spagnolo": "El pareo",
-            "Italiano": "Il pareo"
-        },
-        {
-            "Spagnolo": "El pijama",
-            "Italiano": "Il pigiama"
-        },
-        {
-            "Spagnolo": "La cartera",
-            "Italiano": "Il portafoglio"
-        },
-        {
-            "Spagnolo": "El sostén",
-            "Italiano": "Il reggiseno"
-        },
-        {
-            "Spagnolo": "La gabardina",
-            "Italiano": "Il trench"
-        },
-        {
-            "Spagnolo": "El vestido",
-            "Italiano": "Il vestito"
-        },
-        {
-            "Spagnolo": "El vestido de novia",
-            "Italiano": "Il vestito da sposa"
-        },
-        {
-            "Spagnolo": "El paraguas",
-            "Italiano": "L’ombrello"
-        },
-        {
-            "Spagnolo": "El bolso",
-            "Italiano": "La borsa"
-        },
-        {
-            "Spagnolo": "La camisa",
-            "Italiano": "La camicia"
-        },
-        {
-            "Spagnolo": "La camiseta sin mangas",
-            "Italiano": "La canottiera"
-        },
-        {
-            "Spagnolo": "El cinturón",
-            "Italiano": "La cintura"
-        },
-        {
-            "Spagnolo": "La corbata",
-            "Italiano": "La cravatta"
-        },
-        {
-            "Spagnolo": "La cinta para el pelo",
-            "Italiano": "La fascia"
-        },
-        {
-            "Spagnolo": "La sudadera",
-            "Italiano": "La felpa"
-        },
-        {
-            "Spagnolo": "La chaqueta",
-            "Italiano": "La giacca"
-        },
-        {
-            "Spagnolo": "El cortavientos",
-            "Italiano": "La giacca a vento"
-        },
-        {
-            "Spagnolo": "La falda",
-            "Italiano": "La gonna"
-        },
-        {
-            "Spagnolo": "La camiseta",
-            "Italiano": "La maglietta"
-        },
-        {
-            "Spagnolo": "El peto",
-            "Italiano": "La salopette"
-        },
-        {
-            "Spagnolo": "La bufanda",
-            "Italiano": "La sciarpa"
-        },
-        {
-            "Spagnolo": "La combinación",
-            "Italiano": "La sottoveste"
-        },
-        {
-            "Spagnolo": "El chándal",
-            "Italiano": "La tuta"
-        },
-        {
-            "Spagnolo": "Los calcetines",
-            "Italiano": "Le calze"
-        },
-        {
-            "Spagnolo": "Las chanclas",
-            "Italiano": "Le infradito"
-        },
-        {
-            "Spagnolo": "Las bragas",
-            "Italiano": "Le mutande"
-        },
-        {
-            "Spagnolo": "Las pantuflas",
-            "Italiano": "Le pantofole"
-        },
-        {
-            "Spagnolo": "Los zapatos",
-            "Italiano": "Le scarpe"
-        },
-        {
-            "Spagnolo": "El esmoquin",
-            "Italiano": "Lo smoking"
-        },
-        {
-            "Spagnolo": "La mochila",
-            "Italiano": "Lo zaino"
-        }
-    ]
+  "Animali": [
+    {
+      "Spagnolo": "El camello",
+      "Italiano": "Il cammello"
+    },
+    {
+      "Spagnolo": "El perro",
+      "Italiano": "Il cane"
+    },
+    {
+      "Spagnolo": "El canguro",
+      "Italiano": "Il canguro"
+    },
+    {
+      "Spagnolo": "El castor",
+      "Italiano": "Il castoro"
+    },
+    {
+      "Spagnolo": "El caballo",
+      "Italiano": "Il cavallo"
+    },
+    {
+      "Spagnolo": "El ciervo",
+      "Italiano": "Il cervo"
+    },
+    {
+      "Spagnolo": "El cocodrilo",
+      "Italiano": "Il coccodrillo"
+    },
+    {
+      "Spagnolo": "El conejo",
+      "Italiano": "Il coniglio"
+    },
+    {
+      "Spagnolo": "El delfín",
+      "Italiano": "Il delfino"
+    },
+    {
+      "Spagnolo": "El oso hormiguero",
+      "Italiano": "Il formichiere"
+    },
+    {
+      "Spagnolo": "El gallo",
+      "Italiano": "Il gallo"
+    },
+    {
+      "Spagnolo": "El gato",
+      "Italiano": "Il gatto"
+    },
+    {
+      "Spagnolo": "El búho",
+      "Italiano": "Il gufo"
+    },
+    {
+      "Spagnolo": "El león",
+      "Italiano": "Il leone"
+    },
+    {
+      "Spagnolo": "El lobo",
+      "Italiano": "Il lupo"
+    },
+    {
+      "Spagnolo": "El cerdo",
+      "Italiano": "Il maiale"
+    },
+    {
+      "Spagnolo": "El panda",
+      "Italiano": "Il panda"
+    },
+    {
+      "Spagnolo": "El loro",
+      "Italiano": "Il pappagallo"
+    },
+    {
+      "Spagnolo": "El pavo real",
+      "Italiano": "Il pavone"
+    },
+    {
+      "Spagnolo": "El pingüino",
+      "Italiano": "Il pinguino"
+    },
+    {
+      "Spagnolo": "El murciélago",
+      "Italiano": "Il pipistrello"
+    },
+    {
+      "Spagnolo": "El pulpo",
+      "Italiano": "Il polpo"
+    },
+    {
+      "Spagnolo": "El erizo",
+      "Italiano": "Il riccio"
+    },
+    {
+      "Spagnolo": "El rinoceronte",
+      "Italiano": "Il rinoceronte"
+    },
+    {
+      "Spagnolo": "El sapo",
+      "Italiano": "Il rospo"
+    },
+    {
+      "Spagnolo": "La serpiente",
+      "Italiano": "Il serpente"
+    },
+    {
+      "Spagnolo": "El pavo",
+      "Italiano": "Il tacchino"
+    },
+    {
+      "Spagnolo": "El ratón",
+      "Italiano": "Il topo"
+    },
+    {
+      "Spagnolo": "El pato",
+      "Italiano": "L'anatra"
+    },
+    {
+      "Spagnolo": "El águila",
+      "Italiano": "L'aquila"
+    },
+    {
+      "Spagnolo": "El elefante",
+      "Italiano": "L'elefante"
+    },
+    {
+      "Spagnolo": "El hipopótamo",
+      "Italiano": "L'ippopotamo"
+    },
+    {
+      "Spagnolo": "El ganso",
+      "Italiano": "L'oca"
+    },
+    {
+      "Spagnolo": "El oso",
+      "Italiano": "L'orso"
+    },
+    {
+      "Spagnolo": "La ballena",
+      "Italiano": "La balena"
+    },
+    {
+      "Spagnolo": "La cabra",
+      "Italiano": "La capra"
+    },
+    {
+      "Spagnolo": "La gallina",
+      "Italiano": "La gallina"
+    },
+    {
+      "Spagnolo": "La jirafa",
+      "Italiano": "La giraffa"
+    },
+    {
+      "Spagnolo": "La lagartija",
+      "Italiano": "La lucertola"
+    },
+    {
+      "Spagnolo": "La medusa",
+      "Italiano": "La medusa"
+    },
+    {
+      "Spagnolo": "La vaca",
+      "Italiano": "La mucca"
+    },
+    {
+      "Spagnolo": "La oveja",
+      "Italiano": "La pecora"
+    },
+    {
+      "Spagnolo": "La rana",
+      "Italiano": "La rana"
+    },
+    {
+      "Spagnolo": "El mono",
+      "Italiano": "La scimmia"
+    },
+    {
+      "Spagnolo": "La estrella de mar",
+      "Italiano": "La stella marina"
+    },
+    {
+      "Spagnolo": "La tortuga",
+      "Italiano": "La tartaruga"
+    },
+    {
+      "Spagnolo": "El tigre",
+      "Italiano": "La tigre"
+    },
+    {
+      "Spagnolo": "El zorro",
+      "Italiano": "La volpe"
+    },
+    {
+      "Spagnolo": "La cebra",
+      "Italiano": "La zebra"
+    },
+    {
+      "Spagnolo": "El tiburón",
+      "Italiano": "Lo squalo"
+    }
+  ],
+  "Casa e mobili": [
+    {
+      "Spagnolo": "El baño",
+      "Italiano": "Il bagno"
+    },
+    {
+      "Spagnolo": "El balcón",
+      "Italiano": "Il balcone"
+    },
+    {
+      "Spagnolo": "El cubo de basura",
+      "Italiano": "Il bidone"
+    },
+    {
+      "Spagnolo": "El hervidor",
+      "Italiano": "Il bollitore"
+    },
+    {
+      "Spagnolo": "La chimenea",
+      "Italiano": "Il camino"
+    },
+    {
+      "Spagnolo": "El timbre",
+      "Italiano": "Il campanello"
+    },
+    {
+      "Spagnolo": "La reja/portón",
+      "Italiano": "Il cancello"
+    },
+    {
+      "Spagnolo": "El cargador",
+      "Italiano": "Il caricabatterie"
+    },
+    {
+      "Spagnolo": "El interfono",
+      "Italiano": "Il citofono"
+    },
+    {
+      "Spagnolo": "El colador",
+      "Italiano": "Il colapasta"
+    },
+    {
+      "Spagnolo": "La mesita de noche",
+      "Italiano": "Il comodino"
+    },
+    {
+      "Spagnolo": "El ordenador",
+      "Italiano": "Il computer"
+    },
+    {
+      "Spagnolo": "El aire acondicionado",
+      "Italiano": "L'aria condizionata"
+    },
+    {
+      "Spagnolo": "El congelador",
+      "Italiano": "Il congelatore"
+    },
+    {
+      "Spagnolo": "El recipiente",
+      "Italiano": "Il contenitore"
+    },
+    {
+      "Spagnolo": "El pasillo",
+      "Italiano": "Il corridoio"
+    },
+    {
+      "Spagnolo": "El cojín",
+      "Italiano": "Il cuscino"
+    },
+    {
+      "Spagnolo": "El detergente",
+      "Italiano": "Il detersivo"
+    },
+    {
+      "Spagnolo": "El sofá",
+      "Italiano": "Il divano"
+    },
+    {
+      "Spagnolo": "La cocina (fuego)",
+      "Italiano": "Il fornello"
+    },
+    {
+      "Spagnolo": "El horno",
+      "Italiano": "Il forno"
+    },
+    {
+      "Spagnolo": "La nevera",
+      "Italiano": "Il frigorifero"
+    },
+    {
+      "Spagnolo": "La licuadora",
+      "Italiano": "Il frullatore"
+    },
+    {
+      "Spagnolo": "El garaje",
+      "Italiano": "Il garage"
+    },
+    {
+      "Spagnolo": "El jardín",
+      "Italiano": "Il giardino"
+    },
+    {
+      "Spagnolo": "El ropero",
+      "Italiano": "Il guardaroba"
+    },
+    {
+      "Spagnolo": "La lámpara de techo",
+      "Italiano": "Il lampadario"
+    },
+    {
+      "Spagnolo": "El lavabo",
+      "Italiano": "Il lavandino"
+    },
+    {
+      "Spagnolo": "La cama",
+      "Italiano": "Il letto"
+    },
+    {
+      "Spagnolo": "El colchón",
+      "Italiano": "Il materasso"
+    },
+    {
+      "Spagnolo": "El cucharón",
+      "Italiano": "Il mestolo"
+    },
+    {
+      "Spagnolo": "El microondas",
+      "Italiano": "Il microonde"
+    },
+    {
+      "Spagnolo": "El mueble",
+      "Italiano": "Il mobile"
+    },
+    {
+      "Spagnolo": "El mueble de televisión",
+      "Italiano": "Il mobile TV"
+    },
+    {
+      "Spagnolo": "La fregona",
+      "Italiano": "Il mocio"
+    },
+    {
+      "Spagnolo": "La pared",
+      "Italiano": "Il muro"
+    },
+    {
+      "Spagnolo": "El suelo",
+      "Italiano": "Il pavimento"
+    },
+    {
+      "Spagnolo": "El edredón",
+      "Italiano": "Il piumone"
+    },
+    {
+      "Spagnolo": "El cesto de la ropa",
+      "Italiano": "Il portabiancheria"
+    },
+    {
+      "Spagnolo": "El soporte de cuchillos",
+      "Italiano": "Il portacoltelli"
+    },
+    {
+      "Spagnolo": "El paragüero",
+      "Italiano": "Il portaombrelli"
+    },
+    {
+      "Spagnolo": "La panera",
+      "Italiano": "Il portapane"
+    },
+    {
+      "Spagnolo": "El jabonero",
+      "Italiano": "Il portasapone"
+    },
+    {
+      "Spagnolo": "El especiero",
+      "Italiano": "Il portaspezie"
+    },
+    {
+      "Spagnolo": "El cuadro",
+      "Italiano": "Il quadro"
+    },
+    {
+      "Spagnolo": "El cuadro eléctrico",
+      "Italiano": "Il quadro elettrico"
+    },
+    {
+      "Spagnolo": "El grifo",
+      "Italiano": "Il rubinetto"
+    },
+    {
+      "Spagnolo": "El salón",
+      "Italiano": "Il salotto"
+    },
+    {
+      "Spagnolo": "El cubo",
+      "Italiano": "Il secchio"
+    },
+    {
+      "Spagnolo": "El techo",
+      "Italiano": "Il soffitto"
+    },
+    {
+      "Spagnolo": "La tabla de cortar",
+      "Italiano": "Il tagliere"
+    },
+    {
+      "Spagnolo": "La alfombra",
+      "Italiano": "Il tappeto"
+    },
+    {
+      "Spagnolo": "La mesita",
+      "Italiano": "Il tavolino"
+    },
+    {
+      "Spagnolo": "La mesa",
+      "Italiano": "Il tavolo"
+    },
+    {
+      "Spagnolo": "El mando a distancia",
+      "Italiano": "Il telecomando"
+    },
+    {
+      "Spagnolo": "El tejado",
+      "Italiano": "Il tetto"
+    },
+    {
+      "Spagnolo": "La tostadora",
+      "Italiano": "Il tostapane"
+    },
+    {
+      "Spagnolo": "La servilleta",
+      "Italiano": "Il tovagliolo"
+    },
+    {
+      "Spagnolo": "La bandeja",
+      "Italiano": "Il vassoio"
+    },
+    {
+      "Spagnolo": "El ventilador",
+      "Italiano": "Il ventilatore"
+    },
+    {
+      "Spagnolo": "El inodoro",
+      "Italiano": "Il water"
+    },
+    {
+      "Spagnolo": "El armario",
+      "Italiano": "L’armadio"
+    },
+    {
+      "Spagnolo": "La secadora",
+      "Italiano": "L’asciugatrice"
+    },
+    {
+      "Spagnolo": "La entrada",
+      "Italiano": "L'ingresso"
+    },
+    {
+      "Spagnolo": "La balanza",
+      "Italiano": "La bilancia"
+    },
+    {
+      "Spagnolo": "El dormitorio",
+      "Italiano": "La camera da letto"
+    },
+    {
+      "Spagnolo": "El sótano",
+      "Italiano": "La cantina"
+    },
+    {
+      "Spagnolo": "La cómoda",
+      "Italiano": "La cassettiera"
+    },
+    {
+      "Spagnolo": "La cesta",
+      "Italiano": "La cesta"
+    },
+    {
+      "Spagnolo": "La llave",
+      "Italiano": "La chiave"
+    },
+    {
+      "Spagnolo": "La manta",
+      "Italiano": "La coperta"
+    },
+    {
+      "Spagnolo": "El aparador",
+      "Italiano": "La credenza"
+    },
+    {
+      "Spagnolo": "La casita del perro",
+      "Italiano": "La cuccia"
+    },
+    {
+      "Spagnolo": "La cocina",
+      "Italiano": "La cucina"
+    },
+    {
+      "Spagnolo": "La ducha",
+      "Italiano": "La doccia"
+    },
+    {
+      "Spagnolo": "La ventana",
+      "Italiano": "La finestra"
+    },
+    {
+      "Spagnolo": "El rallador",
+      "Italiano": "La grattugia"
+    },
+    {
+      "Spagnolo": "La lámpara",
+      "Italiano": "La lampada"
+    },
+    {
+      "Spagnolo": "El lavavajillas",
+      "Italiano": "La lavastoviglie"
+    },
+    {
+      "Spagnolo": "La lavadora",
+      "Italiano": "La lavatrice"
+    },
+    {
+      "Spagnolo": "La estantería",
+      "Italiano": "La libreria"
+    },
+    {
+      "Spagnolo": "La cafetera",
+      "Italiano": "La macchina del caffè"
+    },
+    {
+      "Spagnolo": "La repisa",
+      "Italiano": "La mensola"
+    },
+    {
+      "Spagnolo": "La sartén",
+      "Italiano": "La padella"
+    },
+    {
+      "Spagnolo": "La pared (interna)",
+      "Italiano": "La parete"
+    },
+    {
+      "Spagnolo": "La papelera",
+      "Italiano": "La pattumiera"
+    },
+    {
+      "Spagnolo": "La olla",
+      "Italiano": "La pentola"
+    },
+    {
+      "Spagnolo": "El sillón",
+      "Italiano": "La poltrona"
+    },
+    {
+      "Spagnolo": "La puerta",
+      "Italiano": "La porta"
+    },
+    {
+      "Spagnolo": "El enchufe",
+      "Italiano": "La presa"
+    },
+    {
+      "Spagnolo": "El jabón",
+      "Italiano": "La saponetta"
+    },
+    {
+      "Spagnolo": "La escalera",
+      "Italiano": "La scala"
+    },
+    {
+      "Spagnolo": "La escalera de caracol",
+      "Italiano": "La scala a chiocciola"
+    },
+    {
+      "Spagnolo": "La escoba",
+      "Italiano": "La scopa"
+    },
+    {
+      "Spagnolo": "El escritorio",
+      "Italiano": "La scrivania"
+    },
+    {
+      "Spagnolo": "La silla",
+      "Italiano": "La sedia"
+    },
+    {
+      "Spagnolo": "La persiana",
+      "Italiano": "La serranda"
+    },
+    {
+      "Spagnolo": "El desván",
+      "Italiano": "La soffitta"
+    },
+    {
+      "Spagnolo": "La esponja",
+      "Italiano": "La spugna"
+    },
+    {
+      "Spagnolo": "La estufa",
+      "Italiano": "La stufa"
+    },
+    {
+      "Spagnolo": "La estufa de gas",
+      "Italiano": "La stufa a gas"
+    },
+    {
+      "Spagnolo": "La cortina",
+      "Italiano": "La tenda"
+    },
+    {
+      "Spagnolo": "La terraza",
+      "Italiano": "La terrazza"
+    },
+    {
+      "Spagnolo": "El mantel",
+      "Italiano": "La tovaglia"
+    },
+    {
+      "Spagnolo": "La televisión",
+      "Italiano": "La TV"
+    },
+    {
+      "Spagnolo": "La bañera",
+      "Italiano": "La vasca da bagno"
+    },
+    {
+      "Spagnolo": "La vitrina",
+      "Italiano": "La vetrina"
+    },
+    {
+      "Spagnolo": "Las sábanas",
+      "Italiano": "Le lenzuola"
+    },
+    {
+      "Spagnolo": "El desagüe",
+      "Italiano": "Lo scarico"
+    },
+    {
+      "Spagnolo": "El espejo",
+      "Italiano": "Lo specchio"
+    }
+  ],
+  "Congiunzioni": [
+    {
+      "Spagnolo": "Tanto como",
+      "Italiano": "Tanto quanto"
+    },
+    {
+      "Spagnolo": "Sin embargo",
+      "Italiano": "Tuttavia"
+    },
+    {
+      "Spagnolo": "Quizas",
+      "Italiano": "Forse o magari"
+    },
+    {
+      "Spagnolo": "Así que",
+      "Italiano": "Cosí che"
+    },
+    {
+      "Spagnolo": "Además",
+      "Italiano": "Inoltre"
+    },
+    {
+      "Spagnolo": "Es decir, osea",
+      "Italiano": "Cioè"
+    },
+    {
+      "Spagnolo": "Siempre che",
+      "Italiano": "A patto che"
+    },
+    {
+      "Spagnolo": "De modo que",
+      "Italiano": "Affinché o In modo che "
+    },
+    {
+      "Spagnolo": "Por consiguiente",
+      "Italiano": "Di conseguenza"
+    },
+    {
+      "Spagnolo": "En fin",
+      "Italiano": "In somma"
+    },
+    {
+      "Spagnolo": "Mejor dicho, Más bien",
+      "Italiano": "Piuttosto"
+    },
+    {
+      "Spagnolo": "Por eso, por lo tanto",
+      "Italiano": "Perciò"
+    },
+    {
+      "Spagnolo": "de hecho",
+      "Italiano": "Infatti"
+    },
+    {
+      "Spagnolo": "Hasta que",
+      "Italiano": "Finché"
+    },
+    {
+      "Spagnolo": "Ya que",
+      "Italiano": "Poiché"
+    },
+    {
+      "Spagnolo": "Puesto que, como",
+      "Italiano": "Siccome"
+    },
+    {
+      "Spagnolo": "Aunque, si bien",
+      "Italiano": "Sebbene"
+    },
+    {
+      "Spagnolo": "Aunque, si bien",
+      "Italiano": "Malgrado"
+    },
+    {
+      "Spagnolo": "Aunque, si bien",
+      "Italiano": "Benché"
+    },
+    {
+      "Spagnolo": "A pesar de que",
+      "Italiano": "Malgrado"
+    },
+    {
+      "Spagnolo": "A pesar de que",
+      "Italiano": "Nonostante"
+    },
+    {
+      "Spagnolo": "De todos modos, en cualquier caso, sin embargo",
+      "Italiano": "Comunque"
+    },
+    {
+      "Spagnolo": "Por lo tanto, pues, entonces",
+      "Italiano": "Dunque"
+    },
+    {
+      "Spagnolo": "Cualquiera, todo aquel que",
+      "Italiano": "Chiunque"
+    },
+    {
+      "Spagnolo": "sea como sea",
+      "Italiano": "Comunque sia"
+    },
+    {
+      "Spagnolo": "Donde sea, en cualquier lugar",
+      "Italiano": "Dovunque"
+    },
+    {
+      "Spagnolo": "Cualquiera",
+      "Italiano": "Qualunque"
+    },
+    {
+      "Spagnolo": "Cualquiera",
+      "Italiano": "Qualsiasi"
+    }
+  ],
+  "Corpo": [
+    {
+      "Spagnolo": "Los ojos",
+      "Italiano": "Gli occhi"
+    },
+    {
+      "Spagnolo": "Los dientes",
+      "Italiano": "I denti"
+    },
+    {
+      "Spagnolo": "Los pies",
+      "Italiano": "I piedi"
+    },
+    {
+      "Spagnolo": "El brazo",
+      "Italiano": "Il braccio"
+    },
+    {
+      "Spagnolo": "El cerebro",
+      "Italiano": "Il cervello"
+    },
+    {
+      "Spagnolo": "El cuello",
+      "Italiano": "Il collo"
+    },
+    {
+      "Spagnolo": "El corazón",
+      "Italiano": "Il cuore"
+    },
+    {
+      "Spagnolo": "El dedo",
+      "Italiano": "Il dito"
+    },
+    {
+      "Spagnolo": "El hígado",
+      "Italiano": "Il fegato"
+    },
+    {
+      "Spagnolo": "El costado",
+      "Italiano": "Il fianco"
+    },
+    {
+      "Spagnolo": "La rodilla",
+      "Italiano": "Il ginocchio"
+    },
+    {
+      "Spagnolo": "El codo",
+      "Italiano": "Il gomito"
+    },
+    {
+      "Spagnolo": "La barbilla",
+      "Italiano": "Il mento"
+    },
+    {
+      "Spagnolo": "El músculo",
+      "Italiano": "Il muscolo"
+    },
+    {
+      "Spagnolo": "La nariz",
+      "Italiano": "Il naso"
+    },
+    {
+      "Spagnolo": "El pecho",
+      "Italiano": "Il petto"
+    },
+    {
+      "Spagnolo": "El pie",
+      "Italiano": "Il piede"
+    },
+    {
+      "Spagnolo": "El pulmón",
+      "Italiano": "Il polmone"
+    },
+    {
+      "Spagnolo": "La pantorrilla",
+      "Italiano": "Il polpaccio"
+    },
+    {
+      "Spagnolo": "La muñeca",
+      "Italiano": "Il polso"
+    },
+    {
+      "Spagnolo": "La sangre",
+      "Italiano": "Il sangue"
+    },
+    {
+      "Spagnolo": "El trasero",
+      "Italiano": "Il sedere"
+    },
+    {
+      "Spagnolo": "El seno",
+      "Italiano": "Il seno"
+    },
+    {
+      "Spagnolo": "El talón",
+      "Italiano": "Il tallone"
+    },
+    {
+      "Spagnolo": "La cara",
+      "Italiano": "Il viso"
+    },
+    {
+      "Spagnolo": "El abdomen",
+      "Italiano": "L’addome"
+    },
+    {
+      "Spagnolo": "El ojo",
+      "Italiano": "L’occhio"
+    },
+    {
+      "Spagnolo": "La oreja",
+      "Italiano": "L’orecchio"
+    },
+    {
+      "Spagnolo": "El hueso",
+      "Italiano": "L’osso"
+    },
+    {
+      "Spagnolo": "La boca",
+      "Italiano": "La bocca"
+    },
+    {
+      "Spagnolo": "El tobillo",
+      "Italiano": "La caviglia"
+    },
+    {
+      "Spagnolo": "El muslo",
+      "Italiano": "La coscia"
+    },
+    {
+      "Spagnolo": "La frente",
+      "Italiano": "La fronte"
+    },
+    {
+      "Spagnolo": "La pierna",
+      "Italiano": "La gamba"
+    },
+    {
+      "Spagnolo": "La garganta",
+      "Italiano": "La gola"
+    },
+    {
+      "Spagnolo": "La mejilla",
+      "Italiano": "La guancia"
+    },
+    {
+      "Spagnolo": "La lengua",
+      "Italiano": "La lingua"
+    },
+    {
+      "Spagnolo": "La mano",
+      "Italiano": "La mano"
+    },
+    {
+      "Spagnolo": "La barriga",
+      "Italiano": "La pancia"
+    },
+    {
+      "Spagnolo": "La piel",
+      "Italiano": "La pelle"
+    },
+    {
+      "Spagnolo": "La espalda",
+      "Italiano": "La schiena"
+    },
+    {
+      "Spagnolo": "El hombro",
+      "Italiano": "La spalla"
+    },
+    {
+      "Spagnolo": "La cabeza",
+      "Italiano": "La testa"
+    },
+    {
+      "Spagnolo": "Los brazos",
+      "Italiano": "Le braccia"
+    },
+    {
+      "Spagnolo": "Los dedos",
+      "Italiano": "Le dita"
+    },
+    {
+      "Spagnolo": "Las piernas",
+      "Italiano": "Le gambe"
+    },
+    {
+      "Spagnolo": "Las rodillas",
+      "Italiano": "Le ginocchia"
+    },
+    {
+      "Spagnolo": "Las manos",
+      "Italiano": "Le mani"
+    },
+    {
+      "Spagnolo": "Las orejas",
+      "Italiano": "Le orecchie"
+    },
+    {
+      "Spagnolo": "El estómago",
+      "Italiano": "Lo stomaco"
+    }
+  ],
+  "Espressioni": [
+    {
+      "Spagnolo": "De inmediato, enseguida",
+      "Italiano": "Al volo"
+    },
+    {
+      "Spagnolo": "Me las arreglo, puedo hacerlo",
+      "Italiano": "Ce la faccio"
+    },
+    {
+      "Spagnolo": "Que embole",
+      "Italiano": "Che pizza"
+    },
+    {
+      "Spagnolo": "A quien le importa",
+      "Italiano": "Chi se ne frega?"
+    },
+    {
+      "Spagnolo": "No se puede creer",
+      "Italiano": "Da non credere"
+    },
+    {
+      "Spagnolo": "No hay de que",
+      "Italiano": "Figurati"
+    },
+    {
+      "Spagnolo": "no me digas",
+      "Italiano": "Ma dai"
+    },
+    {
+      "Spagnolo": "Que va",
+      "Italiano": "Macché"
+    },
+    {
+      "Spagnolo": "Caramba",
+      "Italiano": "Mannaggia"
+    },
+    {
+      "Spagnolo": "Ni tan mal",
+      "Italiano": "Mica male"
+    },
+    {
+      "Spagnolo": "No pasa nada",
+      "Italiano": "Non fa niente"
+    },
+    {
+      "Spagnolo": "No puedo más",
+      "Italiano": "Non ne posso più"
+    },
+    {
+      "Spagnolo": "Estoy a reventar",
+      "Italiano": "Mi sono sfondato"
+    },
+    {
+      "Spagnolo": "Vete de aquí",
+      "Italiano": "Vai via! Vattene"
+    },
+    {
+      "Spagnolo": "Que barbaro! (Positivo)",
+      "Italiano": "Che forte"
+    },
+    {
+      "Spagnolo": "Ni de coña",
+      "Italiano": "Col cavolo"
+    },
+    {
+      "Spagnolo": "De casualidad",
+      "Italiano": "Per caso"
+    },
+    {
+      "Spagnolo": "De pedo",
+      "Italiano": "Per fortuna"
+    },
+    {
+      "Spagnolo": "Como mucho",
+      "Italiano": "Al massimo"
+    },
+    {
+      "Spagnolo": "Todos y cada uno",
+      "Italiano": "Tutti quanti"
+    },
+    {
+      "Spagnolo": "Me lo merezco",
+      "Italiano": "Me lo merito"
+    },
+    {
+      "Spagnolo": "Cada vez mas",
+      "Italiano": "Sempre più"
+    },
+    {
+      "Spagnolo": "De la noche a la mañana (se dice al reves)",
+      "Italiano": "Dal giorno alla notte"
+    },
+    {
+      "Spagnolo": "Papa caliente (metafora)",
+      "Italiano": "Patata bollente"
+    },
+    {
+      "Spagnolo": "Lo genial",
+      "Italiano": "La cosa figa"
+    }
+  ],
+  "Frutti e verdure": [
+    {
+      "Spagnolo": "El brócoli",
+      "Italiano": "Il broccolo"
+    },
+    {
+      "Spagnolo": "El caqui",
+      "Italiano": "Il cachi"
+    },
+    {
+      "Spagnolo": "La alcachofa",
+      "Italiano": "Il carciofo"
+    },
+    {
+      "Spagnolo": "La coliflor",
+      "Italiano": "Il cavolfiore"
+    },
+    {
+      "Spagnolo": "El repollo",
+      "Italiano": "Il cavolo"
+    },
+    {
+      "Spagnolo": "El pepino",
+      "Italiano": "Il cetriolo"
+    },
+    {
+      "Spagnolo": "El coco",
+      "Italiano": "Il cocco"
+    },
+    {
+      "Spagnolo": "El dátil",
+      "Italiano": "Il dattero"
+    },
+    {
+      "Spagnolo": "El higo",
+      "Italiano": "Il fico"
+    },
+    {
+      "Spagnolo": "El hinojo",
+      "Italiano": "Il finocchio"
+    },
+    {
+      "Spagnolo": "El kiwi",
+      "Italiano": "Il kiwi"
+    },
+    {
+      "Spagnolo": "La frambuesa",
+      "Italiano": "Il lampone"
+    },
+    {
+      "Spagnolo": "El limón",
+      "Italiano": "Il limone"
+    },
+    {
+      "Spagnolo": "El maíz",
+      "Italiano": "Il mais"
+    },
+    {
+      "Spagnolo": "La mandarina",
+      "Italiano": "Il mandarino"
+    },
+    {
+      "Spagnolo": "El mango",
+      "Italiano": "Il mango"
+    },
+    {
+      "Spagnolo": "La granada",
+      "Italiano": "Il melograno"
+    },
+    {
+      "Spagnolo": "El melón",
+      "Italiano": "Il melone"
+    },
+    {
+      "Spagnolo": "El arándano",
+      "Italiano": "Il mirtillo"
+    },
+    {
+      "Spagnolo": "El maracuyá",
+      "Italiano": "Il passion fruit"
+    },
+    {
+      "Spagnolo": "El pimiento",
+      "Italiano": "Il peperone"
+    },
+    {
+      "Spagnolo": "El guisante",
+      "Italiano": "Il pisello"
+    },
+    {
+      "Spagnolo": "El tomate",
+      "Italiano": "Il pomodoro"
+    },
+    {
+      "Spagnolo": "El pomelo",
+      "Italiano": "Il pompelmo"
+    },
+    {
+      "Spagnolo": "El puerro",
+      "Italiano": "Il porro"
+    },
+    {
+      "Spagnolo": "El nabo",
+      "Italiano": "Il rapanello"
+    },
+    {
+      "Spagnolo": "El rábano",
+      "Italiano": "Il ravanello"
+    },
+    {
+      "Spagnolo": "El apio",
+      "Italiano": "Il sedano"
+    },
+    {
+      "Spagnolo": "El ajo",
+      "Italiano": "L’aglio"
+    },
+    {
+      "Spagnolo": "La sandía",
+      "Italiano": "L’anguria"
+    },
+    {
+      "Spagnolo": "La naranja",
+      "Italiano": "L'arancia"
+    },
+    {
+      "Spagnolo": "La uva",
+      "Italiano": "L'uva"
+    },
+    {
+      "Spagnolo": "El plátano",
+      "Italiano": "La banana"
+    },
+    {
+      "Spagnolo": "La remolacha",
+      "Italiano": "La barbabietola"
+    },
+    {
+      "Spagnolo": "La acelga",
+      "Italiano": "La bietola"
+    },
+    {
+      "Spagnolo": "La zanahoria",
+      "Italiano": "La carota"
+    },
+    {
+      "Spagnolo": "La cereza",
+      "Italiano": "La ciliegia"
+    },
+    {
+      "Spagnolo": "La cebolla",
+      "Italiano": "La cipolla"
+    },
+    {
+      "Spagnolo": "La fresa",
+      "Italiano": "La fragola"
+    },
+    {
+      "Spagnolo": "La guayaba",
+      "Italiano": "La guava"
+    },
+    {
+      "Spagnolo": "La lechuga",
+      "Italiano": "La lattuga"
+    },
+    {
+      "Spagnolo": "La manzana",
+      "Italiano": "La mela"
+    },
+    {
+      "Spagnolo": "La berenjena",
+      "Italiano": "La melanzana"
+    },
+    {
+      "Spagnolo": "La mora",
+      "Italiano": "La mora"
+    },
+    {
+      "Spagnolo": "La patata",
+      "Italiano": "La patata"
+    },
+    {
+      "Spagnolo": "La pera",
+      "Italiano": "La pera"
+    },
+    {
+      "Spagnolo": "El durazno",
+      "Italiano": "La pesca"
+    },
+    {
+      "Spagnolo": "La ciruela",
+      "Italiano": "La prugna"
+    },
+    {
+      "Spagnolo": "La rúcula",
+      "Italiano": "La rucola"
+    },
+    {
+      "Spagnolo": "La calabaza",
+      "Italiano": "La zucca"
+    },
+    {
+      "Spagnolo": "El calabacín",
+      "Italiano": "La zucchina"
+    },
+    {
+      "Spagnolo": "El tomillo",
+      "Italiano": "Il timo"
+    },
+    {
+      "Spagnolo": "El orégano",
+      "Italiano": "L' origano"
+    },
+    {
+      "Spagnolo": "El perejil",
+      "Italiano": "Il prezzemolo"
+    },
+    {
+      "Spagnolo": "La albahaca",
+      "Italiano": "Il basilico"
+    },
+    {
+      "Spagnolo": "El cilantro",
+      "Italiano": "Il coriandolo"
+    },
+    {
+      "Spagnolo": "La menta",
+      "Italiano": "La menta"
+    },
+    {
+      "Spagnolo": "La pimienta",
+      "Italiano": "Il peperone"
+    },
+    {
+      "Spagnolo": "La manzanilla",
+      "Italiano": "La camomilla"
+    },
+    {
+      "Spagnolo": "La lavanda",
+      "Italiano": "La lavanda"
+    }
+  ],
+  "Personalità": [
+    {
+      "Spagnolo": "Cariñoso",
+      "Italiano": "Affettuoso"
+    },
+    {
+      "Spagnolo": "Confiable",
+      "Italiano": "Affidabile"
+    },
+    {
+      "Spagnolo": "Alegre",
+      "Italiano": "Allegro"
+    },
+    {
+      "Spagnolo": "Ambicioso",
+      "Italiano": "Ambizioso"
+    },
+    {
+      "Spagnolo": "Ansioso",
+      "Italiano": "Ansioso"
+    },
+    {
+      "Spagnolo": "Antipático",
+      "Italiano": "Antipatico"
+    },
+    {
+      "Spagnolo": "Brillante",
+      "Italiano": "Brillante"
+    },
+    {
+      "Spagnolo": "Tranquilo",
+      "Italiano": "Calmo"
+    },
+    {
+      "Spagnolo": "Cobarde",
+      "Italiano": "Codardo"
+    },
+    {
+      "Spagnolo": "Valiente",
+      "Italiano": "Coraggioso"
+    },
+    {
+      "Spagnolo": "Creativo",
+      "Italiano": "Creativo"
+    },
+    {
+      "Spagnolo": "Curioso",
+      "Italiano": "Curioso"
+    },
+    {
+      "Spagnolo": "Discreto",
+      "Italiano": "Discreto"
+    },
+    {
+      "Spagnolo": "Desenvuelto",
+      "Italiano": "Disinvolto"
+    },
+    {
+      "Spagnolo": "Distante",
+      "Italiano": "Distaccato"
+    },
+    {
+      "Spagnolo": "Divertido",
+      "Italiano": "Divertente"
+    },
+    {
+      "Spagnolo": "Dulce",
+      "Italiano": "Dolce"
+    },
+    {
+      "Spagnolo": "Educado",
+      "Italiano": "Educato"
+    },
+    {
+      "Spagnolo": "Empático",
+      "Italiano": "Empatico"
+    },
+    {
+      "Spagnolo": "Fiel",
+      "Italiano": "Fedele"
+    },
+    {
+      "Spagnolo": "Frío",
+      "Italiano": "Freddo"
+    },
+    {
+      "Spagnolo": "Astuto",
+      "Italiano": "Furbo"
+    },
+    {
+      "Spagnolo": "Amable",
+      "Italiano": "Gentile"
+    },
+    {
+      "Spagnolo": "Juguetón",
+      "Italiano": "Giocoso"
+    },
+    {
+      "Spagnolo": "Imprudente",
+      "Italiano": "Imprudente"
+    },
+    {
+      "Spagnolo": "Impulsivo",
+      "Italiano": "Impulsivo"
+    },
+    {
+      "Spagnolo": "Inocente",
+      "Italiano": "Innocente"
+    },
+    {
+      "Spagnolo": "Inquieto",
+      "Italiano": "Inquieto"
+    },
+    {
+      "Spagnolo": "Inteligente",
+      "Italiano": "Intelligente"
+    },
+    {
+      "Spagnolo": "Envidioso",
+      "Italiano": "Invidioso"
+    },
+    {
+      "Spagnolo": "Trabajador",
+      "Italiano": "Laborioso"
+    },
+    {
+      "Spagnolo": "Travieso",
+      "Italiano": "Malizioso"
+    },
+    {
+      "Spagnolo": "Modesto",
+      "Italiano": "Modesto"
+    },
+    {
+      "Spagnolo": "Honesto",
+      "Italiano": "Onesto"
+    },
+    {
+      "Spagnolo": "Paciente",
+      "Italiano": "Paziente"
+    },
+    {
+      "Spagnolo": "Susceptible",
+      "Italiano": "Permaloso"
+    },
+    {
+      "Spagnolo": "Perezoso",
+      "Italiano": "Pigro"
+    },
+    {
+      "Spagnolo": "Responsable",
+      "Italiano": "Responsabile"
+    },
+    {
+      "Spagnolo": "Reflexivo",
+      "Italiano": "Riflessivo"
+    },
+    {
+      "Spagnolo": "Romántico",
+      "Italiano": "Romantico"
+    },
+    {
+      "Spagnolo": "Serio",
+      "Italiano": "Serio"
+    },
+    {
+      "Spagnolo": "Simpática",
+      "Italiano": "Simpatica"
+    },
+    {
+      "Spagnolo": "Sincero",
+      "Italiano": "Sincero"
+    },
+    {
+      "Spagnolo": "Sociable",
+      "Italiano": "Socievole"
+    },
+    {
+      "Spagnolo": "Espontáneo",
+      "Italiano": "Spontaneo"
+    },
+    {
+      "Spagnolo": "Soberbio",
+      "Italiano": "Superbo"
+    },
+    {
+      "Spagnolo": "Terco",
+      "Italiano": "Testardo"
+    },
+    {
+      "Spagnolo": "Tímido",
+      "Italiano": "Timido"
+    },
+    {
+      "Spagnolo": "Torpe",
+      "Italiano": "Torpe"
+    },
+    {
+      "Spagnolo": "Triste",
+      "Italiano": "Triste"
+    }
+  ],
+  "Variato": [
+    {
+      "Spagnolo": "Una estafa",
+      "Italiano": "Una truffa"
+    },
+    {
+      "Spagnolo": "Una broma",
+      "Italiano": "Uno scherzo"
+    }
+  ],
+  "Verbi": [
+    {
+      "Spagnolo": "Licuar",
+      "Italiano": "Frullare"
+    },
+    {
+      "Spagnolo": "Mezclar",
+      "Italiano": "Mescolare"
+    },
+    {
+      "Spagnolo": "Asustar",
+      "Italiano": "Spaventare"
+    },
+    {
+      "Spagnolo": "Golpear",
+      "Italiano": "Colpire"
+    },
+    {
+      "Spagnolo": "Colapsar",
+      "Italiano": "Collare"
+    },
+    {
+      "Spagnolo": "Ahogarse con comida",
+      "Italiano": "Soffocare"
+    }
+  ],
+  "Vestiti": [
+    {
+      "Spagnolo": "Las botas",
+      "Italiano": "Gli stivali"
+    },
+    {
+      "Spagnolo": "Los calzoncillos",
+      "Italiano": "I boxer"
+    },
+    {
+      "Spagnolo": "Las medias",
+      "Italiano": "I collant"
+    },
+    {
+      "Spagnolo": "Los guantes",
+      "Italiano": "I guanti"
+    },
+    {
+      "Spagnolo": "Los vaqueros",
+      "Italiano": "I jeans"
+    },
+    {
+      "Spagnolo": "Los pantalones cortos",
+      "Italiano": "I pantaloncini"
+    },
+    {
+      "Spagnolo": "Los pantalones",
+      "Italiano": "I pantaloni"
+    },
+    {
+      "Spagnolo": "Las sandalias",
+      "Italiano": "I sandali"
+    },
+    {
+      "Spagnolo": "La gorra",
+      "Italiano": "Il berretto"
+    },
+    {
+      "Spagnolo": "El body",
+      "Italiano": "Il body"
+    },
+    {
+      "Spagnolo": "El sombrero",
+      "Italiano": "Il cappello"
+    },
+    {
+      "Spagnolo": "El abrigo",
+      "Italiano": "Il cappotto"
+    },
+    {
+      "Spagnolo": "La capucha",
+      "Italiano": "Il cappuccio"
+    },
+    {
+      "Spagnolo": "El traje de baño",
+      "Italiano": "Il costume da bagno"
+    },
+    {
+      "Spagnolo": "El pañuelo",
+      "Italiano": "Il foulard"
+    },
+    {
+      "Spagnolo": "El chaleco",
+      "Italiano": "Il gilet"
+    },
+    {
+      "Spagnolo": "El kimono",
+      "Italiano": "Il kimono"
+    },
+    {
+      "Spagnolo": "El suéter",
+      "Italiano": "Il maglione"
+    },
+    {
+      "Spagnolo": "El chaleco formal",
+      "Italiano": "Il panciotto"
+    },
+    {
+      "Spagnolo": "La pajarita",
+      "Italiano": "Il papillon"
+    },
+    {
+      "Spagnolo": "El pareo",
+      "Italiano": "Il pareo"
+    },
+    {
+      "Spagnolo": "El pijama",
+      "Italiano": "Il pigiama"
+    },
+    {
+      "Spagnolo": "La cartera",
+      "Italiano": "Il portafoglio"
+    },
+    {
+      "Spagnolo": "El sostén",
+      "Italiano": "Il reggiseno"
+    },
+    {
+      "Spagnolo": "La gabardina",
+      "Italiano": "Il trench"
+    },
+    {
+      "Spagnolo": "El vestido",
+      "Italiano": "Il vestito"
+    },
+    {
+      "Spagnolo": "El vestido de novia",
+      "Italiano": "Il vestito da sposa"
+    },
+    {
+      "Spagnolo": "El paraguas",
+      "Italiano": "L’ombrello"
+    },
+    {
+      "Spagnolo": "El bolso",
+      "Italiano": "La borsa"
+    },
+    {
+      "Spagnolo": "La camisa",
+      "Italiano": "La camicia"
+    },
+    {
+      "Spagnolo": "La camiseta sin mangas",
+      "Italiano": "La canottiera"
+    },
+    {
+      "Spagnolo": "El cinturón",
+      "Italiano": "La cintura"
+    },
+    {
+      "Spagnolo": "La corbata",
+      "Italiano": "La cravatta"
+    },
+    {
+      "Spagnolo": "La cinta para el pelo",
+      "Italiano": "La fascia"
+    },
+    {
+      "Spagnolo": "La sudadera",
+      "Italiano": "La felpa"
+    },
+    {
+      "Spagnolo": "La chaqueta",
+      "Italiano": "La giacca"
+    },
+    {
+      "Spagnolo": "El cortavientos",
+      "Italiano": "La giacca a vento"
+    },
+    {
+      "Spagnolo": "La falda",
+      "Italiano": "La gonna"
+    },
+    {
+      "Spagnolo": "La camiseta",
+      "Italiano": "La maglietta"
+    },
+    {
+      "Spagnolo": "El peto",
+      "Italiano": "La salopette"
+    },
+    {
+      "Spagnolo": "La bufanda",
+      "Italiano": "La sciarpa"
+    },
+    {
+      "Spagnolo": "La combinación",
+      "Italiano": "La sottoveste"
+    },
+    {
+      "Spagnolo": "El chándal",
+      "Italiano": "La tuta"
+    },
+    {
+      "Spagnolo": "Los calcetines",
+      "Italiano": "Le calze"
+    },
+    {
+      "Spagnolo": "Las chanclas",
+      "Italiano": "Le infradito"
+    },
+    {
+      "Spagnolo": "Las bragas",
+      "Italiano": "Le mutande"
+    },
+    {
+      "Spagnolo": "Las pantuflas",
+      "Italiano": "Le pantofole"
+    },
+    {
+      "Spagnolo": "Los zapatos",
+      "Italiano": "Le scarpe"
+    },
+    {
+      "Spagnolo": "El esmoquin",
+      "Italiano": "Lo smoking"
+    },
+    {
+      "Spagnolo": "La mochila",
+      "Italiano": "Lo zaino"
+    }
+  ]
 }
