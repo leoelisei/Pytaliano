@@ -33,7 +33,7 @@
       "Italiano": "Il coniglio"
     },
     {
-      "Spagnolo": "El delfín",
+      "Spagnolo": "El delfÃ­n",
       "Italiano": "Il delfino"
     },
     {
@@ -49,11 +49,11 @@
       "Italiano": "Il gatto"
     },
     {
-      "Spagnolo": "El búho",
+      "Spagnolo": "El bÃºho",
       "Italiano": "Il gufo"
     },
     {
-      "Spagnolo": "El león",
+      "Spagnolo": "El leÃ³n",
       "Italiano": "Il leone"
     },
     {
@@ -77,11 +77,11 @@
       "Italiano": "Il pavone"
     },
     {
-      "Spagnolo": "El pingüino",
+      "Spagnolo": "El pingÃ¼ino",
       "Italiano": "Il pinguino"
     },
     {
-      "Spagnolo": "El murciélago",
+      "Spagnolo": "El murciÃ©lago",
       "Italiano": "Il pipistrello"
     },
     {
@@ -109,7 +109,7 @@
       "Italiano": "Il tacchino"
     },
     {
-      "Spagnolo": "El ratón",
+      "Spagnolo": "El ratÃ³n",
       "Italiano": "Il topo"
     },
     {
@@ -117,7 +117,7 @@
       "Italiano": "L'anatra"
     },
     {
-      "Spagnolo": "El águila",
+      "Spagnolo": "El Ã¡guila",
       "Italiano": "L'aquila"
     },
     {
@@ -125,7 +125,7 @@
       "Italiano": "L'elefante"
     },
     {
-      "Spagnolo": "El hipopótamo",
+      "Spagnolo": "El hipopÃ³tamo",
       "Italiano": "L'ippopotamo"
     },
     {
@@ -197,17 +197,17 @@
       "Italiano": "La zebra"
     },
     {
-      "Spagnolo": "El tiburón",
+      "Spagnolo": "El tiburÃ³n",
       "Italiano": "Lo squalo"
     }
   ],
   "Casa e mobili": [
     {
-      "Spagnolo": "El baño",
+      "Spagnolo": "El baÃ±o",
       "Italiano": "Il bagno"
     },
     {
-      "Spagnolo": "El balcón",
+      "Spagnolo": "El balcÃ³n",
       "Italiano": "Il balcone"
     },
     {
@@ -227,7 +227,7 @@
       "Italiano": "Il campanello"
     },
     {
-      "Spagnolo": "La reja/portón",
+      "Spagnolo": "La reja/portÃ³n",
       "Italiano": "Il cancello"
     },
     {
@@ -267,7 +267,7 @@
       "Italiano": "Il corridoio"
     },
     {
-      "Spagnolo": "El cojín",
+      "Spagnolo": "El cojÃ­n",
       "Italiano": "Il cuscino"
     },
     {
@@ -275,7 +275,7 @@
       "Italiano": "Il detersivo"
     },
     {
-      "Spagnolo": "El sofá",
+      "Spagnolo": "El sofÃ¡",
       "Italiano": "Il divano"
     },
     {
@@ -299,7 +299,7 @@
       "Italiano": "Il garage"
     },
     {
-      "Spagnolo": "El jardín",
+      "Spagnolo": "El jardÃ­n",
       "Italiano": "Il giardino"
     },
     {
@@ -307,7 +307,7 @@
       "Italiano": "Il guardaroba"
     },
     {
-      "Spagnolo": "La lámpara de techo",
+      "Spagnolo": "La lÃ¡mpara de techo",
       "Italiano": "Il lampadario"
     },
     {
@@ -319,11 +319,11 @@
       "Italiano": "Il letto"
     },
     {
-      "Spagnolo": "El colchón",
+      "Spagnolo": "El colchÃ³n",
       "Italiano": "Il materasso"
     },
     {
-      "Spagnolo": "El cucharón",
+      "Spagnolo": "El cucharÃ³n",
       "Italiano": "Il mestolo"
     },
     {
@@ -335,7 +335,7 @@
       "Italiano": "Il mobile"
     },
     {
-      "Spagnolo": "El mueble de televisión",
+      "Spagnolo": "El mueble de televisiÃ³n",
       "Italiano": "Il mobile TV"
     },
     {
@@ -351,7 +351,7 @@
       "Italiano": "Il pavimento"
     },
     {
-      "Spagnolo": "El edredón",
+      "Spagnolo": "El edredÃ³n",
       "Italiano": "Il piumone"
     },
     {
@@ -363,7 +363,7 @@
       "Italiano": "Il portacoltelli"
     },
     {
-      "Spagnolo": "El paragüero",
+      "Spagnolo": "El paragÃ¼ero",
       "Italiano": "Il portaombrelli"
     },
     {
@@ -383,7 +383,7 @@
       "Italiano": "Il quadro"
     },
     {
-      "Spagnolo": "El cuadro eléctrico",
+      "Spagnolo": "El cuadro elÃ©ctrico",
       "Italiano": "Il quadro elettrico"
     },
     {
@@ -391,7 +391,7 @@
       "Italiano": "Il rubinetto"
     },
     {
-      "Spagnolo": "El salón",
+      "Spagnolo": "El salÃ³n",
       "Italiano": "Il salotto"
     },
     {
@@ -448,11 +448,11 @@
     },
     {
       "Spagnolo": "El armario",
-      "Italiano": "L’armadio"
+      "Italiano": "Lâarmadio"
     },
     {
       "Spagnolo": "La secadora",
-      "Italiano": "L’asciugatrice"
+      "Italiano": "Lâasciugatrice"
     },
     {
       "Spagnolo": "La entrada",
@@ -467,11 +467,11 @@
       "Italiano": "La camera da letto"
     },
     {
-      "Spagnolo": "El sótano",
+      "Spagnolo": "El sÃ³tano",
       "Italiano": "La cantina"
     },
     {
-      "Spagnolo": "La cómoda",
+      "Spagnolo": "La cÃ³moda",
       "Italiano": "La cassettiera"
     },
     {
@@ -511,7 +511,7 @@
       "Italiano": "La grattugia"
     },
     {
-      "Spagnolo": "La lámpara",
+      "Spagnolo": "La lÃ¡mpara",
       "Italiano": "La lampada"
     },
     {
@@ -523,19 +523,19 @@
       "Italiano": "La lavatrice"
     },
     {
-      "Spagnolo": "La estantería",
+      "Spagnolo": "La estanterÃ­a",
       "Italiano": "La libreria"
     },
     {
       "Spagnolo": "La cafetera",
-      "Italiano": "La macchina del caffè"
+      "Italiano": "La macchina del caffÃ¨"
     },
     {
       "Spagnolo": "La repisa",
       "Italiano": "La mensola"
     },
     {
-      "Spagnolo": "La sartén",
+      "Spagnolo": "La sartÃ©n",
       "Italiano": "La padella"
     },
     {
@@ -551,7 +551,7 @@
       "Italiano": "La pentola"
     },
     {
-      "Spagnolo": "El sillón",
+      "Spagnolo": "El sillÃ³n",
       "Italiano": "La poltrona"
     },
     {
@@ -563,7 +563,7 @@
       "Italiano": "La presa"
     },
     {
-      "Spagnolo": "El jabón",
+      "Spagnolo": "El jabÃ³n",
       "Italiano": "La saponetta"
     },
     {
@@ -591,7 +591,7 @@
       "Italiano": "La serranda"
     },
     {
-      "Spagnolo": "El desván",
+      "Spagnolo": "El desvÃ¡n",
       "Italiano": "La soffitta"
     },
     {
@@ -619,11 +619,11 @@
       "Italiano": "La tovaglia"
     },
     {
-      "Spagnolo": "La televisión",
+      "Spagnolo": "La televisiÃ³n",
       "Italiano": "La TV"
     },
     {
-      "Spagnolo": "La bañera",
+      "Spagnolo": "La baÃ±era",
       "Italiano": "La vasca da bagno"
     },
     {
@@ -631,11 +631,11 @@
       "Italiano": "La vetrina"
     },
     {
-      "Spagnolo": "Las sábanas",
+      "Spagnolo": "Las sÃ¡banas",
       "Italiano": "Le lenzuola"
     },
     {
-      "Spagnolo": "El desagüe",
+      "Spagnolo": "El desagÃ¼e",
       "Italiano": "Lo scarico"
     },
     {
@@ -657,16 +657,16 @@
       "Italiano": "Forse o magari"
     },
     {
-      "Spagnolo": "Así que",
-      "Italiano": "Cosí che"
+      "Spagnolo": "AsÃ­ que",
+      "Italiano": "CosÃ­ che"
     },
     {
-      "Spagnolo": "Además",
+      "Spagnolo": "AdemÃ¡s",
       "Italiano": "Inoltre"
     },
     {
       "Spagnolo": "Es decir, osea",
-      "Italiano": "Cioè"
+      "Italiano": "CioÃ¨"
     },
     {
       "Spagnolo": "Siempre che",
@@ -674,7 +674,7 @@
     },
     {
       "Spagnolo": "De modo que",
-      "Italiano": "Affinché o In modo che "
+      "Italiano": "AffinchÃ© o In modo che "
     },
     {
       "Spagnolo": "Por consiguiente",
@@ -685,12 +685,12 @@
       "Italiano": "In somma"
     },
     {
-      "Spagnolo": "Mejor dicho, Más bien",
+      "Spagnolo": "Mejor dicho, MÃ¡s bien",
       "Italiano": "Piuttosto"
     },
     {
       "Spagnolo": "Por eso, por lo tanto",
-      "Italiano": "Perciò"
+      "Italiano": "PerciÃ²"
     },
     {
       "Spagnolo": "de hecho",
@@ -698,11 +698,11 @@
     },
     {
       "Spagnolo": "Hasta que",
-      "Italiano": "Finché"
+      "Italiano": "FinchÃ©"
     },
     {
       "Spagnolo": "Ya que",
-      "Italiano": "Poiché"
+      "Italiano": "PoichÃ©"
     },
     {
       "Spagnolo": "Puesto que, como",
@@ -718,7 +718,7 @@
     },
     {
       "Spagnolo": "Aunque, si bien",
-      "Italiano": "Benché"
+      "Italiano": "BenchÃ©"
     },
     {
       "Spagnolo": "A pesar de que",
@@ -787,7 +787,7 @@
       "Italiano": "Il collo"
     },
     {
-      "Spagnolo": "El corazón",
+      "Spagnolo": "El corazÃ³n",
       "Italiano": "Il cuore"
     },
     {
@@ -795,7 +795,7 @@
       "Italiano": "Il dito"
     },
     {
-      "Spagnolo": "El hígado",
+      "Spagnolo": "El hÃ­gado",
       "Italiano": "Il fegato"
     },
     {
@@ -815,7 +815,7 @@
       "Italiano": "Il mento"
     },
     {
-      "Spagnolo": "El músculo",
+      "Spagnolo": "El mÃºsculo",
       "Italiano": "Il muscolo"
     },
     {
@@ -831,7 +831,7 @@
       "Italiano": "Il piede"
     },
     {
-      "Spagnolo": "El pulmón",
+      "Spagnolo": "El pulmÃ³n",
       "Italiano": "Il polmone"
     },
     {
@@ -839,7 +839,7 @@
       "Italiano": "Il polpaccio"
     },
     {
-      "Spagnolo": "La muñeca",
+      "Spagnolo": "La muÃ±eca",
       "Italiano": "Il polso"
     },
     {
@@ -855,7 +855,7 @@
       "Italiano": "Il seno"
     },
     {
-      "Spagnolo": "El talón",
+      "Spagnolo": "El talÃ³n",
       "Italiano": "Il tallone"
     },
     {
@@ -864,19 +864,19 @@
     },
     {
       "Spagnolo": "El abdomen",
-      "Italiano": "L’addome"
+      "Italiano": "Lâaddome"
     },
     {
       "Spagnolo": "El ojo",
-      "Italiano": "L’occhio"
+      "Italiano": "Lâocchio"
     },
     {
       "Spagnolo": "La oreja",
-      "Italiano": "L’orecchio"
+      "Italiano": "Lâorecchio"
     },
     {
       "Spagnolo": "El hueso",
-      "Italiano": "L’osso"
+      "Italiano": "Lâosso"
     },
     {
       "Spagnolo": "La boca",
@@ -959,7 +959,7 @@
       "Italiano": "Le orecchie"
     },
     {
-      "Spagnolo": "El estómago",
+      "Spagnolo": "El estÃ³mago",
       "Italiano": "Lo stomaco"
     }
   ],
@@ -994,7 +994,7 @@
     },
     {
       "Spagnolo": "Que va",
-      "Italiano": "Macché"
+      "Italiano": "MacchÃ©"
     },
     {
       "Spagnolo": "Caramba",
@@ -1009,15 +1009,15 @@
       "Italiano": "Non fa niente"
     },
     {
-      "Spagnolo": "No puedo más",
-      "Italiano": "Non ne posso più"
+      "Spagnolo": "No puedo mÃ¡s",
+      "Italiano": "Non ne posso piÃ¹"
     },
     {
       "Spagnolo": "Estoy a reventar",
       "Italiano": "Mi sono sfondato"
     },
     {
-      "Spagnolo": "Vete de aquí",
+      "Spagnolo": "Vete de aquÃ­",
       "Italiano": "Vai via! Vattene"
     },
     {
@@ -1025,7 +1025,7 @@
       "Italiano": "Che forte"
     },
     {
-      "Spagnolo": "Ni de coña",
+      "Spagnolo": "Ni de coÃ±a",
       "Italiano": "Col cavolo"
     },
     {
@@ -1050,10 +1050,10 @@
     },
     {
       "Spagnolo": "Cada vez mas",
-      "Italiano": "Sempre più"
+      "Italiano": "Sempre piÃ¹"
     },
     {
-      "Spagnolo": "De la noche a la mañana (se dice al reves)",
+      "Spagnolo": "De la noche a la maÃ±ana (se dice al reves)",
       "Italiano": "Dal giorno alla notte"
     },
     {
@@ -1063,11 +1063,15 @@
     {
       "Spagnolo": "Lo genial",
       "Italiano": "La cosa figa"
+    },
+    {
+      "Spagnolo": "De ahora en adelante",
+      "Italiano": "Da ora in poi"
     }
   ],
   "Frutti e verdure": [
     {
-      "Spagnolo": "El brócoli",
+      "Spagnolo": "El brÃ³coli",
       "Italiano": "Il broccolo"
     },
     {
@@ -1095,7 +1099,7 @@
       "Italiano": "Il cocco"
     },
     {
-      "Spagnolo": "El dátil",
+      "Spagnolo": "El dÃ¡til",
       "Italiano": "Il dattero"
     },
     {
@@ -1115,11 +1119,11 @@
       "Italiano": "Il lampone"
     },
     {
-      "Spagnolo": "El limón",
+      "Spagnolo": "El limÃ³n",
       "Italiano": "Il limone"
     },
     {
-      "Spagnolo": "El maíz",
+      "Spagnolo": "El maÃ­z",
       "Italiano": "Il mais"
     },
     {
@@ -1135,15 +1139,15 @@
       "Italiano": "Il melograno"
     },
     {
-      "Spagnolo": "El melón",
+      "Spagnolo": "El melÃ³n",
       "Italiano": "Il melone"
     },
     {
-      "Spagnolo": "El arándano",
+      "Spagnolo": "El arÃ¡ndano",
       "Italiano": "Il mirtillo"
     },
     {
-      "Spagnolo": "El maracuyá",
+      "Spagnolo": "El maracuyÃ¡",
       "Italiano": "Il passion fruit"
     },
     {
@@ -1171,7 +1175,7 @@
       "Italiano": "Il rapanello"
     },
     {
-      "Spagnolo": "El rábano",
+      "Spagnolo": "El rÃ¡bano",
       "Italiano": "Il ravanello"
     },
     {
@@ -1180,11 +1184,11 @@
     },
     {
       "Spagnolo": "El ajo",
-      "Italiano": "L’aglio"
+      "Italiano": "Lâaglio"
     },
     {
-      "Spagnolo": "La sandía",
-      "Italiano": "L’anguria"
+      "Spagnolo": "La sandÃ­a",
+      "Italiano": "Lâanguria"
     },
     {
       "Spagnolo": "La naranja",
@@ -1195,7 +1199,7 @@
       "Italiano": "L'uva"
     },
     {
-      "Spagnolo": "El plátano",
+      "Spagnolo": "El plÃ¡tano",
       "Italiano": "La banana"
     },
     {
@@ -1259,7 +1263,7 @@
       "Italiano": "La prugna"
     },
     {
-      "Spagnolo": "La rúcula",
+      "Spagnolo": "La rÃºcula",
       "Italiano": "La rucola"
     },
     {
@@ -1267,7 +1271,7 @@
       "Italiano": "La zucca"
     },
     {
-      "Spagnolo": "El calabacín",
+      "Spagnolo": "El calabacÃ­n",
       "Italiano": "La zucchina"
     },
     {
@@ -1275,7 +1279,7 @@
       "Italiano": "Il timo"
     },
     {
-      "Spagnolo": "El orégano",
+      "Spagnolo": "El orÃ©gano",
       "Italiano": "L' origano"
     },
     {
@@ -1307,9 +1311,9 @@
       "Italiano": "La lavanda"
     }
   ],
-  "Personalità": [
+  "PersonalitÃ ": [
     {
-      "Spagnolo": "Cariñoso",
+      "Spagnolo": "CariÃ±oso",
       "Italiano": "Affettuoso"
     },
     {
@@ -1329,7 +1333,7 @@
       "Italiano": "Ansioso"
     },
     {
-      "Spagnolo": "Antipático",
+      "Spagnolo": "AntipÃ¡tico",
       "Italiano": "Antipatico"
     },
     {
@@ -1381,7 +1385,7 @@
       "Italiano": "Educato"
     },
     {
-      "Spagnolo": "Empático",
+      "Spagnolo": "EmpÃ¡tico",
       "Italiano": "Empatico"
     },
     {
@@ -1389,7 +1393,7 @@
       "Italiano": "Fedele"
     },
     {
-      "Spagnolo": "Frío",
+      "Spagnolo": "FrÃ­o",
       "Italiano": "Freddo"
     },
     {
@@ -1401,7 +1405,7 @@
       "Italiano": "Gentile"
     },
     {
-      "Spagnolo": "Juguetón",
+      "Spagnolo": "JuguetÃ³n",
       "Italiano": "Giocoso"
     },
     {
@@ -1465,7 +1469,7 @@
       "Italiano": "Riflessivo"
     },
     {
-      "Spagnolo": "Romántico",
+      "Spagnolo": "RomÃ¡ntico",
       "Italiano": "Romantico"
     },
     {
@@ -1473,7 +1477,7 @@
       "Italiano": "Serio"
     },
     {
-      "Spagnolo": "Simpática",
+      "Spagnolo": "SimpÃ¡tica",
       "Italiano": "Simpatica"
     },
     {
@@ -1485,7 +1489,7 @@
       "Italiano": "Socievole"
     },
     {
-      "Spagnolo": "Espontáneo",
+      "Spagnolo": "EspontÃ¡neo",
       "Italiano": "Spontaneo"
     },
     {
@@ -1497,7 +1501,7 @@
       "Italiano": "Testardo"
     },
     {
-      "Spagnolo": "Tímido",
+      "Spagnolo": "TÃ­mido",
       "Italiano": "Timido"
     },
     {
@@ -1523,7 +1527,7 @@
       "Italiano": "Arredamento"
     },
     {
-      "Spagnolo": "Relleno de espacios vacios o soluci�n temporal",
+      "Spagnolo": "Relleno de espacios vacios o solución temporal",
       "Italiano": "Tappabuco"
     }
   ],
@@ -1607,11 +1611,11 @@
       "Italiano": "Il cappuccio"
     },
     {
-      "Spagnolo": "El traje de baño",
+      "Spagnolo": "El traje de baÃ±o",
       "Italiano": "Il costume da bagno"
     },
     {
-      "Spagnolo": "El pañuelo",
+      "Spagnolo": "El paÃ±uelo",
       "Italiano": "Il foulard"
     },
     {
@@ -1623,7 +1627,7 @@
       "Italiano": "Il kimono"
     },
     {
-      "Spagnolo": "El suéter",
+      "Spagnolo": "El suÃ©ter",
       "Italiano": "Il maglione"
     },
     {
@@ -1647,7 +1651,7 @@
       "Italiano": "Il portafoglio"
     },
     {
-      "Spagnolo": "El sostén",
+      "Spagnolo": "El sostÃ©n",
       "Italiano": "Il reggiseno"
     },
     {
@@ -1664,7 +1668,7 @@
     },
     {
       "Spagnolo": "El paraguas",
-      "Italiano": "L’ombrello"
+      "Italiano": "Lâombrello"
     },
     {
       "Spagnolo": "El bolso",
@@ -1679,7 +1683,7 @@
       "Italiano": "La canottiera"
     },
     {
-      "Spagnolo": "El cinturón",
+      "Spagnolo": "El cinturÃ³n",
       "Italiano": "La cintura"
     },
     {
@@ -1719,11 +1723,11 @@
       "Italiano": "La sciarpa"
     },
     {
-      "Spagnolo": "La combinación",
+      "Spagnolo": "La combinaciÃ³n",
       "Italiano": "La sottoveste"
     },
     {
-      "Spagnolo": "El chándal",
+      "Spagnolo": "El chÃ¡ndal",
       "Italiano": "La tuta"
     },
     {
