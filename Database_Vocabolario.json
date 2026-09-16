@@ -757,8 +757,8 @@
             "Italiano": "Qualsiasi"
         },
         {
-            "Spagnolo": "De lo contrario",
-            "Italiano": "Altrimenti"
+            "Spagnolo": "Incluso",
+            "Italiano": "Persino"
         }
     ],
     "Corpo": [
@@ -1061,12 +1061,24 @@
             "Italiano": "Patata bollente"
         },
         {
-            "Spagnolo": "Lo genial",
-            "Italiano": "La cosa figa"
+            "Spagnolo": "Mas allá de esto",
+            "Italiano": "Oltre a questo"
         },
         {
-            "Spagnolo": "De ahora en adelante",
-            "Italiano": "Da ora in poi"
+            "Spagnolo": "Me quedé sorprendido",
+            "Italiano": "Sono rimasto colpito"
+        },
+        {
+            "Spagnolo": "Gran escala",
+            "Italiano": "Larga scala"
+        },
+        {
+            "Spagnolo": "En pocas palabras",
+            "Italiano": "In breve"
+        },
+        {
+            "Spagnolo": "Creo que no",
+            "Italiano": "Mi sa di no"
         }
     ],
     "Frutti e verdure": [
@@ -1311,7 +1323,7 @@
             "Italiano": "La lavanda"
         }
     ],
-    "PersonalitÃ ": [
+    "Personalità": [
         {
             "Spagnolo": "Cariñoso",
             "Italiano": "Affettuoso"
@@ -1523,12 +1535,16 @@
             "Italiano": "Uno scherzo"
         },
         {
-            "Spagnolo": "Muebles",
-            "Italiano": "Arredamento"
+            "Spagnolo": "Una cuenta pendiente",
+            "Italiano": "Un conto in sospeso"
         },
         {
-            "Spagnolo": "Relleno de espacios vacios o solución temporal",
-            "Italiano": "Tappabuco"
+            "Spagnolo": "El colmo, lo sorprendente",
+            "Italiano": "La cosa buffa"
+        },
+        {
+            "Spagnolo": "Siesta",
+            "Italiano": "Pisolino"
         }
     ],
     "Verbi": [
